@@ -1,0 +1,4691 @@
+@prefix :      <#> .
+@prefix void:  <http://rdfs.org/ns/void#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://www.geonames.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix gnjp:  <http://geonames.jp/resource/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+gnjp:福島県福島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福島市> .
+
+gnjp:徳島県板野郡北島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北島町> .
+
+gnjp:群馬県吾妻郡長野原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長野原町> .
+
+gnjp:秋田県山本郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山本郡> .
+
+gnjp:北海道美唄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美唄市> .
+
+gnjp:京都府京都市上京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上京区> .
+
+gnjp:鹿児島県大島郡与論町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/与論町> .
+
+gnjp:熊本県下益城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下益城郡> .
+
+gnjp:秋田県鹿角郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿角郡> .
+
+gnjp:岡山県岡山市中区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中区 (岡山市)> .
+
+gnjp:愛媛県伊予郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊予郡> .
+
+gnjp:京都府木津川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木津川市> .
+
+gnjp:神奈川県相模原市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (相模原市)> .
+
+gnjp:福島県田村郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田村郡> .
+
+gnjp:岩手県釜石市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/釜石市> .
+
+gnjp:岐阜県揖斐郡揖斐川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/揖斐川町> .
+
+gnjp:愛知県丹羽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/丹羽郡> .
+
+gnjp:佐賀県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐賀県> .
+
+gnjp:群馬県利根郡昭和村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/昭和村 (群馬県)> .
+
+gnjp:山口県山口市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山口市> .
+
+gnjp:長野県上伊那郡辰野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/辰野町> .
+
+gnjp:北海道中川郡豊頃町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊頃町> .
+
+gnjp:群馬県太田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太田市> .
+
+gnjp:福岡県糟屋郡粕屋町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/粕屋町> .
+
+gnjp:鹿児島県姶良市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/姶良市> .
+
+gnjp:奈良県五條市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五條市> .
+
+gnjp:愛知県東海市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東海市> .
+
+gnjp:鹿児島県大島郡宇検村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇検村> .
+
+gnjp:熊本県球磨郡山江村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山江村> .
+
+gnjp:北海道赤平市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/赤平市> .
+
+gnjp:静岡県磐田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/磐田市> .
+
+gnjp:山梨県西八代郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西八代郡> .
+
+gnjp:神奈川県伊勢原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊勢原市> .
+
+gnjp:奈良県生駒郡平群町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平群町> .
+
+gnjp:鹿児島県曽於市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/曽於市> .
+
+gnjp:高知県高知市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高知市> .
+
+gnjp:北海道夕張郡栗山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栗山町> .
+
+gnjp:新潟県新潟市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (新潟市)> .
+
+gnjp:福井県鯖江市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鯖江市> .
+
+gnjp:京都府綾部市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/綾部市> .
+
+gnjp:山形県東田川郡三川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三川町> .
+
+gnjp:北海道余市郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/余市郡> .
+
+gnjp:埼玉県入間郡越生町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/越生町> .
+
+gnjp:福岡県古賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古賀市> .
+
+gnjp:島根県隠岐郡隠岐の島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/隠岐の島町> .
+
+gnjp:大阪府堺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/堺市> .
+
+gnjp:秋田県南秋田郡五城目町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五城目町> .
+
+gnjp:静岡県伊豆の国市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊豆の国市> .
+
+gnjp:北海道苫前郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/苫前郡> .
+
+gnjp:大分県東国東郡姫島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/姫島村> .
+
+gnjp:岡山県久米郡久米南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久米南町> .
+
+gnjp:沖縄県中頭郡西原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西原町> .
+
+gnjp:北海道増毛郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/増毛郡> .
+
+gnjp:山口県萩市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/萩市> .
+
+gnjp:奈良県天理市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天理市> .
+
+gnjp:北海道虻田郡洞爺湖町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/洞爺湖町> .
+
+gnjp:和歌山県伊都郡高野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高野町> .
+
+gnjp:神奈川県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神奈川県> .
+
+gnjp:三重県度会郡玉城町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉城町> .
+
+gnjp:石川県七尾市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/七尾市> .
+
+gnjp:長崎県東彼杵郡川棚町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川棚町> .
+
+gnjp:山口県大島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大島郡 (山口県)> .
+
+gnjp:奈良県吉野郡下北山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下北山村> .
+
+gnjp:山梨県南都留郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南都留郡> .
+
+gnjp:熊本県球磨郡湯前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯前町> .
+
+gnjp:山口県美祢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美祢市> .
+
+gnjp:鹿児島県鹿児島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿児島郡> .
+
+gnjp:福岡県遠賀郡遠賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遠賀町> .
+
+gnjp:北海道有珠郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/有珠郡> .
+
+gnjp:高知県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高知県> .
+
+gnjp:奈良県桜井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桜井市> .
+
+gnjp:新潟県見附市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/見附市> .
+
+gnjp:宮城県伊具郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊具郡> .
+
+gnjp:鹿児島県南さつま市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南さつま市> .
+
+gnjp:埼玉県富士見市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富士見市> .
+
+gnjp:京都府南丹市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南丹市> .
+
+gnjp:大阪府大阪市都島区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/都島区> .
+
+gnjp:鹿児島県南九州市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南九州市> .
+
+gnjp:石川県羽咋郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽咋郡> .
+
+gnjp:佐賀県武雄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/武雄市> .
+
+gnjp:徳島県海部郡海陽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海陽町> .
+
+gnjp:青森県北津軽郡中泊町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中泊町> .
+
+gnjp:福岡県鞍手郡小竹町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小竹町> .
+
+gnjp:宮城県宮城郡七ヶ浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/七ヶ浜町> .
+
+gnjp:北海道室蘭市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/室蘭市> .
+
+gnjp:岩手県一関市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/一関市> .
+
+gnjp:熊本県玉名郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉名郡> .
+
+gnjp:岡山県英田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/英田郡> .
+
+gnjp:千葉県香取郡神崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神崎町> .
+
+gnjp:群馬県邑楽郡明和町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/明和町 (群馬県)> .
+
+gnjp:神奈川県小田原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小田原市> .
+
+gnjp:埼玉県白岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白岡市> .
+
+gnjp:栃木県塩谷郡高根沢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高根沢町> .
+
+gnjp:京都府舞鶴市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/舞鶴市> .
+
+gnjp:宮崎県小林市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小林市> .
+
+gnjp:大分県玖珠郡九重町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/九重町> .
+
+gnjp:北海道虻田郡倶知安町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/倶知安町> .
+
+gnjp:福岡県糟屋郡新宮町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新宮町> .
+
+gnjp:千葉県旭市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/旭市> .
+
+gnjp:長野県北安曇郡白馬村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白馬村> .
+
+gnjp:宮城県加美郡色麻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/色麻町> .
+
+gnjp:岐阜県岐阜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岐阜市> .
+
+gnjp:北海道檜山郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/檜山郡> .
+
+gnjp:北海道河西郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河西郡> .
+
+gnjp:東京都八丈町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八丈町> .
+
+gnjp:北海道河東郡鹿追町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿追町> .
+
+gnjp:愛媛県上浮穴郡久万高原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久万高原町> .
+
+gnjp:福岡県八女郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八女郡> .
+
+gnjp:広島県安芸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安芸郡 (広島県)> .
+
+gnjp:山口県玖珂郡和木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和木町> .
+
+gnjp:群馬県邑楽郡邑楽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/邑楽町> .
+
+gnjp:熊本県菊池郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/菊池郡> .
+
+gnjp:青森県北津軽郡板柳町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/板柳町> .
+
+gnjp:広島県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広島県> .
+
+gnjp:滋賀県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/滋賀県> .
+
+gnjp:京都府乙訓郡大山崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大山崎町> .
+
+gnjp:鹿児島県出水郡長島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長島町> .
+
+gnjp:千葉県東金市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東金市> .
+
+gnjp:茨城県石岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石岡市> .
+
+gnjp:福島県安達郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安達郡> .
+
+gnjp:熊本県天草市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天草市> .
+
+gnjp:北海道空知郡南富良野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南富良野町> .
+
+gnjp:静岡県田方郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田方郡> .
+
+gnjp:静岡県沼津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/沼津市> .
+
+gnjp:北海道利尻郡利尻富士町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利尻富士町> .
+
+gnjp:秋田県山本郡藤里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤里町> .
+
+gnjp:東京都青ヶ島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青ヶ島村> .
+
+gnjp:三重県伊賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊賀市> .
+
+gnjp:大阪府大東市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大東市> .
+
+gnjp:静岡県掛川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/掛川市> .
+
+gnjp:神奈川県横浜市栄区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栄区> .
+
+gnjp:神奈川県川崎市中原区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中原区> .
+
+gnjp:三重県員弁郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/員弁郡> .
+
+gnjp:茨城県常陸大宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/常陸大宮市> .
+
+gnjp:京都府京都市山科区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山科区> .
+
+gnjp:和歌山県伊都郡九度山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/九度山町> .
+
+gnjp:東京都荒川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/荒川区> .
+
+gnjp:愛知県名古屋市中川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中川区> .
+
+gnjp:福井県今立郡池田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/池田町 (福井県)> .
+
+gnjp:京都府相楽郡精華町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/精華町> .
+
+gnjp:愛知県北設楽郡設楽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/設楽町> .
+
+gnjp:福井県三方上中郡若狭町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/若狭町> .
+
+gnjp:大分県佐伯市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐伯市> .
+
+gnjp:愛媛県喜多郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/喜多郡> .
+
+gnjp:大阪府岸和田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岸和田市> .
+
+gnjp:神奈川県横浜市青葉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青葉区 (横浜市)> .
+
+gnjp:東京都新島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新島村> .
+
+gnjp:大分県玖珠郡玖珠町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玖珠町> .
+
+gnjp:熊本県球磨郡あさぎり町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/あさぎり町> .
+
+gnjp:香川県高松市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高松市> .
+
+gnjp:和歌山県伊都郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊都郡> .
+
+gnjp:長野県埴科郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/埴科郡> .
+
+gnjp:島根県隠岐郡知夫村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/知夫村> .
+
+gnjp:長野県木曽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木曽郡> .
+
+gnjp:北海道山越郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山越郡> .
+
+gnjp:長野県北佐久郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北佐久郡> .
+
+gnjp:和歌山県東牟婁郡串本町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/串本町> .
+
+gnjp:岐阜県下呂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下呂市> .
+
+gnjp:長崎県雲仙市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雲仙市> .
+
+gnjp:熊本県球磨郡錦町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/錦町> .
+
+gnjp:佐賀県小城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小城市> .
+
+gnjp:福岡県みやま市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みやま市> .
+
+gnjp:北海道奥尻郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奥尻郡> .
+
+gnjp:兵庫県揖保郡太子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太子町 (兵庫県)> .
+
+gnjp:宮城県塩竈市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/塩竈市> .
+
+gnjp:秋田県南秋田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南秋田郡> .
+
+gnjp:福岡県福津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福津市> .
+
+gnjp:愛知県尾張旭市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/尾張旭市> .
+
+gnjp:北海道恵庭市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/恵庭市> .
+
+gnjp:群馬県北群馬郡榛東村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/榛東村> .
+
+gnjp:宮崎県児湯郡都農町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/都農町> .
+
+gnjp:沖縄県中頭郡中城村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中城村> .
+
+gnjp:北海道上川郡剣淵町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/剣淵町> .
+
+gnjp:茨城県那珂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那珂市> .
+
+gnjp:奈良県山辺郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山辺郡> .
+
+gnjp:茨城県稲敷郡阿見町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿見町> .
+
+gnjp:鹿児島県大島郡知名町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/知名町> .
+
+gnjp:宮崎県東諸県郡綾町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/綾町> .
+
+gnjp:三重県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三重県> .
+
+gnjp:福島県西白河郡泉崎村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉崎村> .
+
+gnjp:岡山県玉野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉野市> .
+
+gnjp:滋賀県彦根市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/彦根市> .
+
+gnjp:新潟県中魚沼郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中魚沼郡> .
+
+gnjp:福島県西白河郡中島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中島村> .
+
+gnjp:東京都三鷹市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三鷹市> .
+
+gnjp:新潟県北蒲原郡聖籠町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/聖籠町> .
+
+gnjp:新潟県燕市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/燕市> .
+
+gnjp:宮城県伊具郡丸森町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/丸森町> .
+
+gnjp:熊本県熊本市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (熊本市)> .
+
+gnjp:愛知県知多郡美浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美浜町 (愛知県)> .
+
+gnjp:宮城県黒川郡大郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大郷町> .
+
+gnjp:長野県木曽郡南木曽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南木曽町> .
+
+gnjp:沖縄県国頭郡東村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東村> .
+
+gnjp:神奈川県横浜市金沢区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/金沢区> .
+
+gnjp:神奈川県三浦郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三浦郡> .
+
+gnjp:兵庫県三田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三田市> .
+
+gnjp:福島県伊達郡川俣町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川俣町> .
+
+gnjp:東京都西多摩郡瑞穂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瑞穂町> .
+
+gnjp:長野県下伊那郡阿南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿南町> .
+
+gnjp:埼玉県さいたま市緑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/緑区 (さいたま市)> .
+
+gnjp:岩手県気仙郡住田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/住田町> .
+
+gnjp:千葉県山武郡横芝光町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/横芝光町> .
+
+gnjp:熊本県上益城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上益城郡> .
+
+gnjp:新潟県新潟市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (新潟市)> .
+
+gnjp:三重県員弁郡東員町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東員町> .
+
+gnjp:山形県最上郡金山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/金山町 (山形県)> .
+
+gnjp:新潟県新潟市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (新潟市)> .
+
+gnjp:熊本県天草郡苓北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/苓北町> .
+
+gnjp:秋田県山本郡八峰町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八峰町> .
+
+gnjp:愛知県名古屋市中区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中区 (名古屋市)> .
+
+gnjp:新潟県新発田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新発田市> .
+
+gnjp:静岡県下田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下田市> .
+
+gnjp:大阪府大阪市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大阪市> .
+
+gnjp:千葉県白井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白井市> .
+
+gnjp:福岡県糟屋郡宇美町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇美町> .
+
+gnjp:愛知県北名古屋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北名古屋市> .
+
+gnjp:千葉県富津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富津市> .
+
+gnjp:大阪府東大阪市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東大阪市> .
+
+gnjp:埼玉県比企郡滑川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/滑川町> .
+
+gnjp:徳島県小松島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小松島市> .
+
+gnjp:奈良県北葛城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北葛城郡> .
+
+gnjp:岡山県美作市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美作市> .
+
+gnjp:福島県石川郡平田村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平田村> .
+
+gnjp:沖縄県国頭郡金武町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/金武町> .
+
+gnjp:北海道札幌市清田区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清田区> .
+
+gnjp:鹿児島県出水郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/出水郡> .
+
+gnjp:岐阜県本巣郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本巣郡> .
+
+gnjp:北海道上川郡比布町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/比布町> .
+
+gnjp:山口県長門市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長門市> .
+
+gnjp:長野県南佐久郡小海町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小海町> .
+
+gnjp:東京都板橋区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/板橋区> .
+
+gnjp:奈良県吉野郡十津川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/十津川村> .
+
+gnjp:長野県下高井郡山ノ内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山ノ内町> .
+
+gnjp:福島県相馬郡飯舘村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯舘村> .
+
+gnjp:北海道余市郡赤井川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/赤井川村> .
+
+gnjp:埼玉県鴻巣市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鴻巣市> .
+
+gnjp:栃木県下都賀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下都賀郡> .
+
+gnjp:秋田県北秋田郡上小阿仁村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上小阿仁村> .
+
+gnjp:茨城県久慈郡大子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大子町> .
+
+gnjp:東京都狛江市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/狛江市> .
+
+gnjp:北海道増毛郡増毛町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/増毛町> .
+
+gnjp:和歌山県日高郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高郡 (和歌山県)> .
+
+gnjp:山口県宇部市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇部市> .
+
+gnjp:北海道幌泉郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幌泉郡> .
+
+gnjp:茨城県守谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/守谷市> .
+
+gnjp:福島県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福島県> .
+
+gnjp:新潟県新潟市西蒲区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西蒲区> .
+
+gnjp:群馬県利根郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利根郡> .
+
+gnjp:三重県三重郡川越町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川越町> .
+
+gnjp:長野県諏訪市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/諏訪市> .
+
+gnjp:山形県西村山郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西村山郡> .
+
+gnjp:静岡県浜松市浜北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浜北区> .
+
+gnjp:埼玉県蕨市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蕨市> .
+
+gnjp:埼玉県比企郡嵐山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嵐山町> .
+
+gnjp:福岡県太宰府市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太宰府市> .
+
+gnjp:岐阜県加茂郡坂祝町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂祝町> .
+
+gnjp:岐阜県加茂郡八百津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八百津町> .
+
+gnjp:奈良県吉野郡上北山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上北山村> .
+
+gnjp:神奈川県横浜市鶴見区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鶴見区 (横浜市)> .
+
+gnjp:愛媛県越智郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/越智郡> .
+
+gnjp:京都府与謝郡与謝野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/与謝野町> .
+
+gnjp:北海道勇払郡厚真町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/厚真町> .
+
+gnjp:茨城県稲敷郡河内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河内町> .
+
+gnjp:北海道枝幸郡枝幸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/枝幸町> .
+
+gnjp:大分県豊後高田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊後高田市> .
+
+gnjp:北海道古平郡古平町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古平町> .
+
+gnjp:福島県大沼郡昭和村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/昭和村 (福島県)> .
+
+gnjp:千葉県夷隅郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/夷隅郡> .
+
+gnjp:沖縄県中頭郡読谷村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/読谷村> .
+
+gnjp:岩手県久慈市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久慈市> .
+
+gnjp:山梨県南巨摩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南巨摩郡> .
+
+gnjp:島根県邑智郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/邑智郡> .
+
+gnjp:北海道磯谷郡蘭越町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蘭越町> .
+
+gnjp:北海道滝川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/滝川市> .
+
+gnjp:千葉県印西市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/印西市> .
+
+gnjp:高知県吾川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吾川郡> .
+
+gnjp:福島県南会津郡只見町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/只見町> .
+
+gnjp:青森県中津軽郡西目屋村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西目屋村> .
+
+gnjp:北海道瀬棚郡今金町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/今金町> .
+
+gnjp:大分県津久見市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津久見市> .
+
+gnjp:宮城県刈田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/刈田郡> .
+
+gnjp:大阪府大阪市阿倍野区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿倍野区> .
+
+gnjp:福島県東白川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東白川郡> .
+
+gnjp:岐阜県羽島郡笠松町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/笠松町> .
+
+gnjp:岐阜県中津川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中津川市> .
+
+gnjp:奈良県生駒市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/生駒市> .
+
+gnjp:東京都目黒区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/目黒区> .
+
+gnjp:熊本県熊本市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (熊本市)> .
+
+gnjp:北海道天塩郡豊富町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊富町> .
+
+gnjp:愛知県小牧市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小牧市> .
+
+gnjp:長野県茅野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茅野市> .
+
+gnjp:広島県三原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三原市> .
+
+gnjp:茨城県鹿嶋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿嶋市> .
+
+gnjp:茨城県神栖市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神栖市> .
+
+gnjp:大阪府大阪狭山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大阪狭山市> .
+
+gnjp:茨城県北相馬郡利根町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利根町> .
+
+gnjp:兵庫県宍粟市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宍粟市> .
+
+gnjp:北海道千歳市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千歳市> .
+
+gnjp:静岡県湖西市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湖西市> .
+
+gnjp:群馬県北群馬郡吉岡町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉岡町> .
+
+gnjp:愛知県犬山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/犬山市> .
+
+gnjp:岐阜県海津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海津市> .
+
+gnjp:福島県大沼郡金山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/金山町 (福島県)> .
+
+gnjp:北海道空知郡上砂川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上砂川町> .
+
+gnjp:山形県天童市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天童市> .
+
+gnjp:長崎県諫早市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/諫早市> .
+
+gnjp:山梨県西八代郡市川三郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/市川三郷町> .
+
+gnjp:和歌山県日高郡みなべ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みなべ町> .
+
+gnjp:群馬県吾妻郡高山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高山村 (群馬県)> .
+
+gnjp:千葉県長生郡白子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白子町> .
+
+gnjp:石川県羽咋郡志賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/志賀町> .
+
+gnjp:福島県南相馬市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南相馬市> .
+
+gnjp:宮崎県児湯郡木城町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木城町> .
+
+gnjp:福岡県朝倉郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝倉郡> .
+
+gnjp:茨城県水戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/水戸市> .
+
+gnjp:北海道古宇郡神恵内村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神恵内村> .
+
+gnjp:京都府福知山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福知山市> .
+
+gnjp:大阪府泉南郡岬町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岬町> .
+
+gnjp:岐阜県不破郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/不破郡> .
+
+gnjp:沖縄県中頭郡北谷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北谷町> .
+
+gnjp:茨城県桜川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桜川市> .
+
+gnjp:千葉県勝浦市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勝浦市> .
+
+gnjp:北海道釧路郡釧路町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/釧路町> .
+
+gnjp:三重県三重郡朝日町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝日町 (三重県)> .
+
+gnjp:長野県佐久市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐久市> .
+
+gnjp:福井県小浜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小浜市> .
+
+gnjp:沖縄県南城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南城市> .
+
+gnjp:鹿児島県垂水市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/垂水市> .
+
+gnjp:福岡県行橋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/行橋市> .
+
+gnjp:山形県東根市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東根市> .
+
+gnjp:宮城県亘理郡亘理町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/亘理町> .
+
+gnjp:兵庫県川辺郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川辺郡> .
+
+gnjp:高知県幡多郡大月町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大月町> .
+
+gnjp:北海道十勝郡浦幌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦幌町> .
+
+gnjp:高知県土佐郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土佐郡> .
+
+gnjp:大阪府三島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三島郡 (大阪府)> .
+
+gnjp:京都府相楽郡笠置町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/笠置町> .
+
+gnjp:埼玉県児玉郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/児玉郡> .
+
+gnjp:石川県河北郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河北郡> .
+
+gnjp:青森県八戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八戸市> .
+
+gnjp:三重県亀山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/亀山市> .
+
+gnjp:北海道茅部郡森町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/森町 (北海道)> .
+
+gnjp:北海道河西郡中札内村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中札内村> .
+
+gnjp:青森県東津軽郡平内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平内町> .
+
+gnjp:岡山県岡山市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (岡山市)> .
+
+gnjp:大阪府大阪市生野区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/生野区> .
+
+gnjp:埼玉県さいたま市桜区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桜区> .
+
+gnjp:大阪府四條畷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/四條畷市> .
+
+gnjp:北海道紋別郡雄武町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雄武町> .
+
+gnjp:岩手県気仙郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/気仙郡> .
+
+gnjp:岐阜県多治見市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多治見市> .
+
+gnjp:長野県塩尻市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/塩尻市> .
+
+gnjp:広島県大竹市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大竹市> .
+
+gnjp:岡山県津山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津山市> .
+
+gnjp:北海道札幌市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (札幌市)> .
+
+gnjp:宮城県亘理郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/亘理郡> .
+
+gnjp:北海道足寄郡足寄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/足寄町> .
+
+gnjp:広島県三次市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三次市> .
+
+gnjp:神奈川県足柄下郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/足柄下郡> .
+
+gnjp:東京都町田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/町田市> .
+
+gnjp:宮崎県児湯郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/児湯郡> .
+
+gnjp:岩手県下閉伊郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下閉伊郡> .
+
+gnjp:東京都新宿区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新宿区> .
+
+gnjp:兵庫県西宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西宮市> .
+
+gnjp:埼玉県羽生市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽生市> .
+
+gnjp:山形県東置賜郡川西町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川西町 (山形県)> .
+
+gnjp:静岡県伊豆市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊豆市> .
+
+gnjp:岩手県紫波郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紫波郡> .
+
+gnjp:宮崎県西臼杵郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西臼杵郡> .
+
+gnjp:島根県鹿足郡吉賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉賀町> .
+
+gnjp:兵庫県川西市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川西市> .
+
+gnjp:愛媛県南宇和郡愛南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛南町> .
+
+gnjp:兵庫県美方郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美方郡> .
+
+gnjp:兵庫県佐用郡佐用町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐用町> .
+
+gnjp:福井県南条郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南条郡> .
+
+gnjp:岡山県赤磐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/赤磐市> .
+
+gnjp:山形県東置賜郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東置賜郡> .
+
+gnjp:長崎県南松浦郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南松浦郡> .
+
+gnjp:東京都東大和市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東大和市> .
+
+gnjp:北海道北見市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北見市> .
+
+gnjp:千葉県銚子市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/銚子市> .
+
+gnjp:福井県福井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福井市> .
+
+gnjp:大阪府南河内郡太子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太子町 (大阪府)> .
+
+gnjp:北海道札幌市白石区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白石区> .
+
+gnjp:青森県北津軽郡鶴田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鶴田町> .
+
+gnjp:埼玉県さいたま市大宮区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大宮区> .
+
+gnjp:北海道札幌市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (札幌市)> .
+
+gnjp:静岡県富士宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富士宮市> .
+
+gnjp:岩手県下閉伊郡田野畑村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田野畑村> .
+
+gnjp:鳥取県八頭郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八頭郡> .
+
+gnjp:群馬県邑楽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/邑楽郡> .
+
+gnjp:富山県黒部市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/黒部市> .
+
+gnjp:静岡県浜松市中区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中区 (浜松市)> .
+
+gnjp:神奈川県南足柄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南足柄市> .
+
+gnjp:神奈川県座間市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/座間市> .
+
+gnjp:東京都清瀬市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清瀬市> .
+
+gnjp:北海道二海郡八雲町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八雲町> .
+
+gnjp:北海道北斗市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北斗市> .
+
+gnjp:香川県小豆郡小豆島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小豆島町> .
+
+gnjp:山口県熊毛郡田布施町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田布施町> .
+
+gnjp:千葉県千葉市若葉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/若葉区> .
+
+gnjp:新潟県西蒲原郡弥彦村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/弥彦村> .
+
+gnjp:埼玉県秩父郡横瀬町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/横瀬町> .
+
+gnjp:沖縄県国頭郡宜野座村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宜野座村> .
+
+gnjp:香川県香川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香川郡> .
+
+gnjp:千葉県山武郡芝山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芝山町> .
+
+gnjp:岡山県都窪郡早島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/早島町> .
+
+gnjp:栃木県さくら市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/さくら市> .
+
+gnjp:神奈川県平塚市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平塚市> .
+
+gnjp:宮城県柴田郡柴田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柴田町> .
+
+gnjp:神奈川県足柄上郡松田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松田町> .
+
+gnjp:佐賀県三養基郡基山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/基山町> .
+
+gnjp:島根県安来市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安来市> .
+
+gnjp:愛知県名古屋市瑞穂区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瑞穂区> .
+
+gnjp:茨城県東茨城郡城里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/城里町> .
+
+gnjp:山形県北村山郡大石田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大石田町> .
+
+gnjp:宮崎県東諸県郡国富町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国富町> .
+
+gnjp:熊本県上益城郡甲佐町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甲佐町> .
+
+gnjp:大分県速見郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/速見郡> .
+
+gnjp:北海道新冠郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新冠郡> .
+
+gnjp:埼玉県飯能市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯能市> .
+
+gnjp:福岡県田川郡福智町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福智町> .
+
+gnjp:埼玉県所沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/所沢市> .
+
+gnjp:鳥取県倉吉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/倉吉市> .
+
+gnjp:大阪府泉南郡熊取町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊取町> .
+
+gnjp:兵庫県神戸市垂水区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/垂水区> .
+
+gnjp:北海道川上郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川上郡> .
+
+gnjp:埼玉県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/埼玉県> .
+
+gnjp:北海道夕張郡長沼町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長沼町> .
+
+gnjp:埼玉県さいたま市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (さいたま市)> .
+
+gnjp:青森県上北郡七戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/七戸町> .
+
+gnjp:北海道新冠郡新冠町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新冠町> .
+
+gnjp:北海道茅部郡鹿部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿部町> .
+
+gnjp:北海道樺戸郡浦臼町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦臼町> .
+
+gnjp:北海道河西郡更別村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/更別村> .
+
+gnjp:北海道奥尻郡奥尻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奥尻町> .
+
+gnjp:北海道江別市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江別市> .
+
+gnjp:北海道浦河郡浦河町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦河町> .
+
+gnjp:熊本県熊本市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (熊本市)> .
+
+gnjp:沖縄県国頭郡今帰仁村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/今帰仁村> .
+
+gnjp:長野県下伊那郡平谷村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平谷村> .
+
+gnjp:埼玉県坂戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂戸市> .
+
+gnjp:熊本県宇土市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇土市> .
+
+gnjp:北海道松前郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松前郡> .
+
+gnjp:山梨県上野原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上野原市> .
+
+gnjp:東京都豊島区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊島区> .
+
+gnjp:千葉県山武郡九十九里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/九十九里町> .
+
+gnjp:京都府綴喜郡井手町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/井手町> .
+
+gnjp:京都府長岡京市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長岡京市> .
+
+gnjp:鳥取県鳥取市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳥取市> .
+
+gnjp:鳥取県東伯郡琴浦町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/琴浦町> .
+
+gnjp:沖縄県島尻郡与那原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/与那原町> .
+
+gnjp:奈良県大和郡山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大和郡山市> .
+
+gnjp:山形県長井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長井市> .
+
+gnjp:千葉県松戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松戸市> .
+
+gnjp:徳島県名東郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名東郡> .
+
+gnjp:高知県高岡郡四万十町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/四万十町> .
+
+gnjp:北海道網走市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/網走市> .
+
+gnjp:茨城県つくば市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/つくば市> .
+
+gnjp:長野県岡谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岡谷市> .
+
+gnjp:山梨県中央市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央市> .
+
+gnjp:兵庫県赤穂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/赤穂市> .
+
+gnjp:山梨県甲州市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甲州市> .
+
+gnjp:大分県大分市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大分市> .
+
+gnjp:岐阜県羽島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽島郡> .
+
+gnjp:静岡県榛原郡川根本町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川根本町> .
+
+gnjp:広島県広島市安佐北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安佐北区> .
+
+gnjp:福岡県遠賀郡水巻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/水巻町> .
+
+gnjp:福岡県三潴郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三潴郡> .
+
+gnjp:福島県双葉郡葛尾村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葛尾村> .
+
+gnjp:愛知県海部郡蟹江町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蟹江町> .
+
+gnjp:京都府相楽郡和束町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和束町> .
+
+gnjp:千葉県香取郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香取郡> .
+
+gnjp:長野県小県郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小県郡> .
+
+gnjp:京都府向日市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/向日市> .
+
+gnjp:北海道亀田郡七飯町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/七飯町> .
+
+gnjp:福井県南条郡南越前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南越前町> .
+
+gnjp:長野県東御市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東御市> .
+
+gnjp:福岡県大牟田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大牟田市> .
+
+gnjp:岐阜県高山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高山市> .
+
+gnjp:奈良県高市郡高取町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高取町> .
+
+gnjp:鹿児島県枕崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/枕崎市> .
+
+gnjp:京都府京都市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (京都市)> .
+
+gnjp:北海道上川郡愛別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛別町> .
+
+gnjp:北海道目梨郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/目梨郡> .
+
+gnjp:長野県千曲市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千曲市> .
+
+gnjp:千葉県千葉市美浜区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美浜区> .
+
+gnjp:山梨県山梨市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山梨市> .
+
+gnjp:埼玉県比企郡小川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小川町> .
+
+gnjp:鹿児島県熊毛郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊毛郡 (鹿児島県)> .
+
+gnjp:滋賀県大津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大津市> .
+
+gnjp:静岡県賀茂郡河津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河津町> .
+
+gnjp:石川県小松市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小松市> .
+
+gnjp:北海道歌志内市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/歌志内市> .
+
+gnjp:山口県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山口県> .
+
+gnjp:山梨県甲府市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甲府市> .
+
+gnjp:鳥取県八頭郡若桜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/若桜町> .
+
+gnjp:岡山県真庭郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/真庭郡> .
+
+gnjp:三重県南牟婁郡御浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御浜町> .
+
+gnjp:山梨県大月市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大月市> .
+
+gnjp:愛知県名古屋市中村区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中村区> .
+
+gnjp:広島県山県郡安芸太田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安芸太田町> .
+
+gnjp:福岡県豊前市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊前市> .
+
+gnjp:宮崎県東臼杵郡諸塚村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/諸塚村> .
+
+gnjp:愛媛県上浮穴郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上浮穴郡> .
+
+gnjp:熊本県球磨郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/球磨郡> .
+
+gnjp:秋田県山本郡三種町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三種町> .
+
+gnjp:沖縄県国頭郡国頭村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国頭村> .
+
+gnjp:青森県南津軽郡大鰐町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大鰐町> .
+
+gnjp:愛知県大府市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大府市> .
+
+gnjp:山口県下松市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下松市> .
+
+gnjp:鹿児島県指宿市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/指宿市> .
+
+gnjp:北海道留萌郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/留萌郡> .
+
+gnjp:青森県つがる市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/つがる市> .
+
+gnjp:北海道砂川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/砂川市> .
+
+gnjp:埼玉県さいたま市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (さいたま市)> .
+
+gnjp:宮城県黒川郡富谷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富谷町> .
+
+gnjp:長崎県北松浦郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北松浦郡> .
+
+gnjp:神奈川県横浜市港北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/港北区> .
+
+gnjp:鹿児島県霧島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/霧島市> .
+
+gnjp:福島県喜多方市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/喜多方市> .
+
+gnjp:長野県下伊那郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下伊那郡> .
+
+gnjp:山形県西村山郡朝日町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝日町 (山形県)> .
+
+gnjp:福島県河沼郡柳津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柳津町> .
+
+gnjp:奈良県吉野郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉野郡> .
+
+gnjp:三重県四日市市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/四日市市> .
+
+gnjp:北海道河東郡音更町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/音更町> .
+
+gnjp:広島県広島市佐伯区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐伯区> .
+
+gnjp:福島県郡山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/郡山市> .
+
+gnjp:広島県廿日市市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/廿日市市> .
+
+gnjp:北海道雨竜郡北竜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北竜町> .
+
+gnjp:鹿児島県大島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大島郡 (鹿児島県)> .
+
+gnjp:山口県熊毛郡上関町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上関町> .
+
+gnjp:高知県安芸郡田野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田野町> .
+
+gnjp:奈良県生駒郡斑鳩町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/斑鳩町> .
+
+gnjp:京都府綴喜郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/綴喜郡> .
+
+gnjp:東京都神津島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神津島村> .
+
+gnjp:埼玉県児玉郡上里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上里町> .
+
+gnjp:宮崎県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮崎県> .
+
+gnjp:高知県幡多郡三原村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三原村> .
+
+gnjp:高知県高岡郡日高村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高村> .
+
+gnjp:徳島県三好市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三好市> .
+
+gnjp:愛知県名古屋市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (名古屋市)> .
+
+gnjp:栃木県矢板市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/矢板市> .
+
+gnjp:福岡県北九州市門司区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/門司区> .
+
+gnjp:北海道札幌市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (札幌市)> .
+
+gnjp:愛媛県西予市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西予市> .
+
+gnjp:熊本県葦北郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葦北郡> .
+
+gnjp:愛知県津島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津島市> .
+
+gnjp:岐阜県安八郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安八郡> .
+
+gnjp:山形県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山形県> .
+
+gnjp:長野県南佐久郡南相木村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南相木村> .
+
+gnjp:群馬県前橋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/前橋市> .
+
+gnjp:栃木県下野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下野市> .
+
+gnjp:愛知県江南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江南市> .
+
+gnjp:岩手県上閉伊郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上閉伊郡> .
+
+gnjp:長野県小県郡長和町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長和町> .
+
+gnjp:愛媛県新居浜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新居浜市> .
+
+gnjp:滋賀県野洲市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野洲市> .
+
+gnjp:青森県下北郡東通村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東通村> .
+
+gnjp:島根県仁多郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仁多郡> .
+
+gnjp:徳島県勝浦郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勝浦郡> .
+
+gnjp:三重県桑名郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桑名郡> .
+
+gnjp:静岡県静岡市駿河区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/駿河区> .
+
+gnjp:栃木県佐野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐野市> .
+
+gnjp:宮崎県東臼杵郡門川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/門川町> .
+
+gnjp:愛媛県越智郡上島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上島町> .
+
+gnjp:長野県須坂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/須坂市> .
+
+gnjp:北海道寿都郡寿都町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/寿都町> .
+
+gnjp:新潟県加茂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加茂市> .
+
+gnjp:神奈川県綾瀬市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/綾瀬市> .
+
+gnjp:沖縄県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/沖縄県> .
+
+gnjp:岐阜県山県市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山県市> .
+
+gnjp:富山県富山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富山市> .
+
+gnjp:大阪府豊能郡能勢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/能勢町> .
+
+gnjp:神奈川県横浜市都筑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/都筑区> .
+
+gnjp:埼玉県久喜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久喜市> .
+
+gnjp:京都府亀岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/亀岡市> .
+
+gnjp:徳島県三好郡東みよし町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東みよし町> .
+
+gnjp:京都府相楽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/相楽郡> .
+
+gnjp:北海道紋別郡興部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/興部町> .
+
+gnjp:山形県上山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上山市> .
+
+gnjp:福島県伊達郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊達郡> .
+
+gnjp:東京都多摩市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多摩市> .
+
+gnjp:京都府京都市下京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下京区> .
+
+gnjp:富山県中新川郡立山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/立山町> .
+
+gnjp:岡山県総社市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/総社市> .
+
+gnjp:大阪府大阪市平野区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平野区> .
+
+gnjp:大阪府大阪市東成区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東成区> .
+
+gnjp:岩手県胆沢郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/胆沢郡> .
+
+gnjp:千葉県安房郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安房郡> .
+
+gnjp:東京都青梅市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青梅市> .
+
+gnjp:鹿児島県鹿児島郡十島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/十島村> .
+
+gnjp:北海道余市郡仁木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仁木町> .
+
+gnjp:福島県東白川郡鮫川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鮫川村> .
+
+gnjp:福岡県田川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田川市> .
+
+gnjp:埼玉県蓮田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蓮田市> .
+
+gnjp:北海道茅部郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茅部郡> .
+
+gnjp:岐阜県安八郡輪之内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/輪之内町> .
+
+gnjp:千葉県浦安市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦安市> .
+
+gnjp:和歌山県東牟婁郡古座川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古座川町> .
+
+gnjp:岐阜県瑞穂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瑞穂市> .
+
+gnjp:長野県上高井郡高山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高山村 (長野県)> .
+
+gnjp:新潟県阿賀野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿賀野市> .
+
+gnjp:山形県東置賜郡高畠町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高畠町> .
+
+gnjp:宮城県石巻市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石巻市> .
+
+gnjp:北海道宗谷郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宗谷郡> .
+
+gnjp:沖縄県国頭郡恩納村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/恩納村> .
+
+gnjp:香川県観音寺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/観音寺市> .
+
+gnjp:新潟県柏崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柏崎市> .
+
+gnjp:兵庫県神戸市東灘区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東灘区> .
+
+gnjp:徳島県勝浦郡勝浦町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勝浦町> .
+
+gnjp:長野県北安曇郡池田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/池田町 (長野県)> .
+
+gnjp:新潟県新潟市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (新潟市)> .
+
+gnjp:北海道中川郡幕別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幕別町> .
+
+gnjp:福岡県福岡市博多区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/博多区> .
+
+gnjp:兵庫県神戸市長田区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長田区> .
+
+gnjp:秋田県大館市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大館市> .
+
+gnjp:奈良県北葛城郡上牧町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上牧町> .
+
+gnjp:熊本県荒尾市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/荒尾市> .
+
+gnjp:広島県神石郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神石郡> .
+
+gnjp:北海道虻田郡留寿都村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/留寿都村> .
+
+gnjp:高知県安芸郡奈半利町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奈半利町> .
+
+gnjp:京都府久世郡久御山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久御山町> .
+
+gnjp:鹿児島県熊毛郡屋久島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/屋久島町> .
+
+gnjp:北海道寿都郡黒松内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/黒松内町> .
+
+gnjp:高知県高岡郡佐川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐川町> .
+
+gnjp:北海道釧路市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/釧路市> .
+
+gnjp:宮崎県西臼杵郡五ヶ瀬町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五ヶ瀬町> .
+
+gnjp:青森県上北郡東北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東北町> .
+
+gnjp:長崎県西彼杵郡長与町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長与町> .
+
+gnjp:鳥取県東伯郡三朝町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三朝町> .
+
+gnjp:岡山県高梁市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高梁市> .
+
+gnjp:徳島県美馬郡つるぎ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/つるぎ町> .
+
+gnjp:北海道  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北海道> .
+
+gnjp:兵庫県姫路市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/姫路市> .
+
+gnjp:鹿児島県姶良郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/姶良郡> .
+
+gnjp:愛知県海部郡飛島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飛島村> .
+
+gnjp:島根県邑智郡美郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美郷町 (島根県)> .
+
+gnjp:愛媛県東温市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東温市> .
+
+gnjp:愛知県豊橋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊橋市> .
+
+gnjp:青森県むつ市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/むつ市> .
+
+gnjp:茨城県鉾田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鉾田市> .
+
+gnjp:佐賀県唐津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/唐津市> .
+
+gnjp:静岡県浜松市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (浜松市)> .
+
+gnjp:山梨県都留市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/都留市> .
+
+gnjp:福島県白河市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白河市> .
+
+gnjp:山形県西置賜郡小国町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小国町 (山形県)> .
+
+gnjp:三重県津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津市> .
+
+gnjp:北海道爾志郡乙部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/乙部町> .
+
+gnjp:宮城県宮城郡利府町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利府町> .
+
+gnjp:群馬県渋川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/渋川市> .
+
+gnjp:愛知県北設楽郡豊根村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊根村> .
+
+gnjp:長野県北佐久郡立科町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/立科町> .
+
+gnjp:東京都小平市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小平市> .
+
+gnjp:北海道厚岸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/厚岸郡> .
+
+gnjp:静岡県周智郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/周智郡> .
+
+gnjp:群馬県甘楽郡甘楽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甘楽町> .
+
+gnjp:新潟県新潟市秋葉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秋葉区> .
+
+gnjp:岡山県浅口郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浅口郡> .
+
+gnjp:沖縄県八重山郡竹富町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/竹富町> .
+
+gnjp:埼玉県東松山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東松山市> .
+
+gnjp:北海道芦別市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芦別市> .
+
+gnjp:北海道勇払郡むかわ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/むかわ町> .
+
+gnjp:宮崎県児湯郡高鍋町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高鍋町> .
+
+gnjp:和歌山県東牟婁郡太地町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太地町> .
+
+gnjp:鹿児島県薩摩郡さつま町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/さつま町> .
+
+gnjp:岩手県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩手県> .
+
+gnjp:福島県岩瀬郡天栄村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天栄村> .
+
+gnjp:香川県仲多度郡まんのう町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/まんのう町> .
+
+gnjp:山口県熊毛郡平生町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平生町> .
+
+gnjp:島根県邑智郡邑南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/邑南町> .
+
+gnjp:長野県上水内郡小川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小川村> .
+
+gnjp:埼玉県本庄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本庄市> .
+
+gnjp:千葉県市川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/市川市> .
+
+gnjp:福岡県筑紫郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/筑紫郡> .
+
+gnjp:岡山県瀬戸内市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瀬戸内市> .
+
+gnjp:埼玉県さいたま市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (さいたま市)> .
+
+gnjp:兵庫県芦屋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芦屋市> .
+
+gnjp:宮城県本吉郡南三陸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南三陸町> .
+
+gnjp:香川県木田郡三木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三木町> .
+
+gnjp:大阪府泉南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉南市> .
+
+gnjp:奈良県北葛城郡河合町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河合町> .
+
+gnjp:神奈川県相模原市緑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/緑区 (相模原市)> .
+
+gnjp:高知県土佐郡大川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大川村> .
+
+gnjp:福岡県八女郡広川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広川町 (福岡県)> .
+
+gnjp:北海道士別市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/士別市> .
+
+gnjp:福井県三方郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三方郡> .
+
+gnjp:長野県下水内郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下水内郡> .
+
+gnjp:北海道標津郡中標津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中標津町> .
+
+gnjp:東京都大田区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大田区> .
+
+gnjp:大阪府阪南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阪南市> .
+
+gnjp:岩手県下閉伊郡普代村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/普代村> .
+
+gnjp:岡山県苫田郡鏡野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鏡野町> .
+
+gnjp:東京都三宅村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三宅村> .
+
+gnjp:愛知県西尾市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西尾市> .
+
+gnjp:北海道空知郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/空知郡> .
+
+gnjp:熊本県上益城郡益城町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/益城町> .
+
+gnjp:秋田県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秋田県> .
+
+gnjp:福岡県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福岡県> .
+
+gnjp:奈良県吉野郡吉野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉野町> .
+
+gnjp:埼玉県深谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/深谷市> .
+
+gnjp:高知県安芸郡馬路村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/馬路村> .
+
+gnjp:山口県大島郡周防大島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/周防大島町> .
+
+gnjp:熊本県球磨郡相良村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/相良村> .
+
+gnjp:兵庫県美方郡新温泉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新温泉町> .
+
+gnjp:神奈川県川崎市幸区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幸区> .
+
+gnjp:東京都日野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日野市> .
+
+gnjp:福岡県築上郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/築上郡> .
+
+gnjp:石川県鳳珠郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳳珠郡> .
+
+gnjp:北海道日高郡新ひだか町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新ひだか町> .
+
+gnjp:大阪府大阪市城東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/城東区> .
+
+gnjp:長野県上伊那郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上伊那郡> .
+
+gnjp:熊本県天草郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天草郡> .
+
+gnjp:北海道北広島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北広島市> .
+
+gnjp:徳島県名西郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名西郡> .
+
+gnjp:埼玉県草加市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/草加市> .
+
+gnjp:群馬県伊勢崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊勢崎市> .
+
+gnjp:北海道幌泉郡えりも町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/えりも町> .
+
+gnjp:宮城県柴田郡大河原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大河原町> .
+
+gnjp:長野県上水内郡飯綱町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯綱町> .
+
+gnjp:東京都利島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利島村> .
+
+gnjp:鹿児島県大島郡和泊町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和泊町> .
+
+gnjp:長野県上伊那郡南箕輪村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南箕輪村> .
+
+gnjp:福島県南会津郡檜枝岐村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/檜枝岐村> .
+
+gnjp:宮城県黒川郡大和町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大和町> .
+
+gnjp:長野県上田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上田市> .
+
+gnjp:北海道河西郡芽室町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芽室町> .
+
+gnjp:新潟県中魚沼郡津南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津南町> .
+
+gnjp:秋田県仙北市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仙北市> .
+
+gnjp:岩手県二戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/二戸市> .
+
+gnjp:熊本県上天草市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上天草市> .
+
+gnjp:栃木県那須郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那須郡> .
+
+gnjp:愛媛県喜多郡内子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/内子町> .
+
+gnjp:栃木県宇都宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇都宮市> .
+
+gnjp:富山県高岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高岡市> .
+
+gnjp:静岡県浜松市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (浜松市)> .
+
+gnjp:山形県飽海郡遊佐町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遊佐町> .
+
+gnjp:埼玉県南埼玉郡宮代町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮代町> .
+
+gnjp:佐賀県三養基郡みやき町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みやき町> .
+
+gnjp:新潟県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新潟県> .
+
+gnjp:広島県山県郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山県郡> .
+
+gnjp:群馬県藤岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤岡市> .
+
+gnjp:山梨県中巨摩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中巨摩郡> .
+
+gnjp:栃木県下都賀郡壬生町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/壬生町> .
+
+gnjp:兵庫県多可郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多可郡> .
+
+gnjp:大阪府寝屋川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/寝屋川市> .
+
+gnjp:山梨県南都留郡西桂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西桂町> .
+
+gnjp:宮城県亘理郡山元町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山元町> .
+
+gnjp:京都府船井郡京丹波町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京丹波町> .
+
+gnjp:茨城県那珂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那珂郡> .
+
+gnjp:沖縄県糸満市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/糸満市> .
+
+gnjp:愛媛県北宇和郡鬼北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鬼北町> .
+
+gnjp:東京都練馬区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/練馬区> .
+
+gnjp:滋賀県栗東市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栗東市> .
+
+gnjp:滋賀県近江八幡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/近江八幡市> .
+
+gnjp:岡山県久米郡美咲町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美咲町> .
+
+gnjp:山形県最上郡鮭川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鮭川村> .
+
+gnjp:宮城県仙台市青葉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青葉区 (仙台市)> .
+
+gnjp:北海道厚岸郡厚岸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/厚岸町> .
+
+gnjp:茨城県牛久市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/牛久市> .
+
+gnjp:大阪府大阪市東淀川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東淀川区> .
+
+gnjp:東京都昭島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/昭島市> .
+
+gnjp:大阪府大阪市住之江区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/住之江区> .
+
+gnjp:東京都中野区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中野区> .
+
+gnjp:茨城県かすみがうら市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/かすみがうら市> .
+
+gnjp:大阪府大阪市大正区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大正区> .
+
+gnjp:愛知県豊明市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊明市> .
+
+gnjp:新潟県長岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長岡市> .
+
+gnjp:兵庫県小野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小野市> .
+
+gnjp:岐阜県可児郡御嵩町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御嵩町> .
+
+gnjp:福岡県三潴郡大木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大木町> .
+
+gnjp:岩手県上閉伊郡大槌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大槌町> .
+
+gnjp:福岡県朝倉郡東峰村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東峰村> .
+
+gnjp:長野県下高井郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下高井郡> .
+
+gnjp:岐阜県美濃加茂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美濃加茂市> .
+
+gnjp:高知県香南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香南市> .
+
+gnjp:茨城県小美玉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小美玉市> .
+
+gnjp:福井県三方上中郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三方上中郡> .
+
+gnjp:東京都西多摩郡檜原村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/檜原村> .
+
+gnjp:北海道雨竜郡秩父別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秩父別町> .
+
+gnjp:広島県東広島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東広島市> .
+
+gnjp:滋賀県蒲生郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蒲生郡> .
+
+gnjp:岡山県和気郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和気郡> .
+
+gnjp:北海道古平郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古平郡> .
+
+gnjp:千葉県成田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/成田市> .
+
+gnjp:鳥取県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳥取県> .
+
+gnjp:大阪府羽曳野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽曳野市> .
+
+gnjp:東京都稲城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稲城市> .
+
+gnjp:山梨県北杜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北杜市> .
+
+gnjp:山形県最上郡大蔵村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大蔵村> .
+
+gnjp:岩手県紫波郡矢巾町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/矢巾町> .
+
+gnjp:奈良県宇陀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇陀市> .
+
+gnjp:大阪府河内長野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河内長野市> .
+
+gnjp:群馬県吾妻郡東吾妻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東吾妻町> .
+
+gnjp:群馬県邑楽郡千代田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千代田町> .
+
+gnjp:熊本県上益城郡嘉島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嘉島町> .
+
+gnjp:佐賀県東松浦郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東松浦郡> .
+
+gnjp:広島県竹原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/竹原市> .
+
+gnjp:奈良県磯城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/磯城郡> .
+
+gnjp:岡山県勝田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勝田郡> .
+
+gnjp:兵庫県高砂市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高砂市> .
+
+gnjp:高知県長岡郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長岡郡> .
+
+gnjp:京都府  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京都府> .
+
+gnjp:宮崎県日南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日南市> .
+
+gnjp:大阪府豊能郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊能郡> .
+
+gnjp:愛知県愛知郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛知郡 (愛知県)> .
+
+gnjp:広島県広島市中区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中区 (広島市)> .
+
+gnjp:福岡県筑後市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/筑後市> .
+
+gnjp:長野県下伊那郡阿智村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿智村> .
+
+gnjp:北海道白糠郡白糠町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白糠町> .
+
+gnjp:高知県土佐清水市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土佐清水市> .
+
+gnjp:岐阜県養老郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/養老郡> .
+
+gnjp:千葉県千葉市緑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/緑区 (千葉市)> .
+
+gnjp:北海道勇払郡安平町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安平町> .
+
+gnjp:岐阜県不破郡関ケ原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/関ケ原町> .
+
+gnjp:埼玉県吉川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉川市> .
+
+gnjp:神奈川県川崎市宮前区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮前区> .
+
+gnjp:宮崎県児湯郡新富町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新富町> .
+
+gnjp:福井県吉田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉田郡> .
+
+gnjp:北海道余市郡余市町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/余市町> .
+
+gnjp:長崎県長崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長崎市> .
+
+gnjp:宮城県角田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/角田市> .
+
+gnjp:宮崎県東臼杵郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東臼杵郡> .
+
+gnjp:北海道上川郡鷹栖町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鷹栖町> .
+
+gnjp:岩手県二戸郡一戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/一戸町> .
+
+gnjp:富山県中新川郡舟橋村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/舟橋村> .
+
+gnjp:岡山県真庭郡新庄村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新庄村> .
+
+gnjp:鳥取県西伯郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西伯郡> .
+
+gnjp:兵庫県淡路市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/淡路市> .
+
+gnjp:大阪府枚方市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/枚方市> .
+
+gnjp:福島県岩瀬郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩瀬郡> .
+
+gnjp:長野県諏訪郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/諏訪郡> .
+
+gnjp:東京都渋谷区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/渋谷区> .
+
+gnjp:香川県綾歌郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/綾歌郡> .
+
+gnjp:宮城県気仙沼市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/気仙沼市> .
+
+gnjp:岩手県紫波郡紫波町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紫波町> .
+
+gnjp:神奈川県愛甲郡清川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清川村> .
+
+gnjp:石川県珠洲市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/珠洲市> .
+
+gnjp:熊本県熊本市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (熊本市)> .
+
+gnjp:兵庫県篠山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/篠山市> .
+
+gnjp:福島県耶麻郡北塩原村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北塩原村> .
+
+gnjp:沖縄県島尻郡南大東村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南大東村> .
+
+gnjp:長崎県北松浦郡小値賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小値賀町> .
+
+gnjp:奈良県宇陀郡御杖村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御杖村> .
+
+gnjp:神奈川県横浜市磯子区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/磯子区> .
+
+gnjp:熊本県阿蘇郡西原村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西原村> .
+
+gnjp:宮崎県串間市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/串間市> .
+
+gnjp:大阪府大阪市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (大阪市)> .
+
+gnjp:鹿児島県鹿児島郡三島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三島村> .
+
+gnjp:福岡県柳川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柳川市> .
+
+gnjp:東京都立川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/立川市> .
+
+gnjp:宮崎県西都市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西都市> .
+
+gnjp:兵庫県尼崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/尼崎市> .
+
+gnjp:鹿児島県日置市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日置市> .
+
+gnjp:香川県仲多度郡琴平町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/琴平町> .
+
+gnjp:兵庫県加古郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加古郡> .
+
+gnjp:神奈川県川崎市麻生区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/麻生区> .
+
+gnjp:岡山県笠岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/笠岡市> .
+
+gnjp:埼玉県比企郡鳩山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳩山町> .
+
+gnjp:山形県新庄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新庄市> .
+
+gnjp:鳥取県米子市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/米子市> .
+
+gnjp:富山県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富山県> .
+
+gnjp:秋田県男鹿市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/男鹿市> .
+
+gnjp:石川県羽咋郡宝達志水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宝達志水町> .
+
+gnjp:北海道網走郡津別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津別町> .
+
+gnjp:茨城県高萩市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高萩市> .
+
+gnjp:愛知県高浜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高浜市> .
+
+gnjp:新潟県三島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三島郡 (新潟県)> .
+
+gnjp:愛知県長久手市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長久手市> .
+
+gnjp:青森県三沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三沢市> .
+
+gnjp:高知県安芸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安芸市> .
+
+gnjp:長野県上水内郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上水内郡> .
+
+gnjp:奈良県生駒郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/生駒郡> .
+
+gnjp:佐賀県杵島郡江北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江北町> .
+
+gnjp:高知県安芸郡北川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北川村> .
+
+gnjp:静岡県焼津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/焼津市> .
+
+gnjp:福島県石川郡浅川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浅川町> .
+
+gnjp:山梨県南巨摩郡身延町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/身延町> .
+
+gnjp:山形県西村山郡河北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河北町> .
+
+gnjp:北海道白糠郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白糠郡> .
+
+gnjp:石川県鹿島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿島郡> .
+
+gnjp:千葉県安房郡鋸南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鋸南町> .
+
+gnjp:和歌山県日高郡日高町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高町 (和歌山県)> .
+
+gnjp:東京都福生市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福生市> .
+
+gnjp:三重県熊野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊野市> .
+
+gnjp:静岡県浜松市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (浜松市)> .
+
+gnjp:岩手県奥州市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奥州市> .
+
+gnjp:香川県綾歌郡宇多津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇多津町> .
+
+gnjp:福岡県鞍手郡鞍手町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鞍手町> .
+
+gnjp:福島県東白川郡棚倉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/棚倉町> .
+
+gnjp:岡山県岡山市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (岡山市)> .
+
+gnjp:長野県下伊那郡豊丘村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊丘村> .
+
+gnjp:兵庫県美方郡香美町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香美町> .
+
+gnjp:青森県上北郡野辺地町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野辺地町> .
+
+gnjp:香川県小豆郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小豆郡> .
+
+gnjp:栃木県那須郡那珂川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那珂川町 (栃木県)> .
+
+gnjp:愛知県半田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/半田市> .
+
+gnjp:岐阜県加茂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加茂郡> .
+
+gnjp:神奈川県逗子市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/逗子市> .
+
+gnjp:長野県下伊那郡高森町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高森町 (長野県)> .
+
+gnjp:山梨県南都留郡忍野村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/忍野村> .
+
+gnjp:鹿児島県大島郡瀬戸内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瀬戸内町> .
+
+gnjp:香川県三豊市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三豊市> .
+
+gnjp:山形県西置賜郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西置賜郡> .
+
+gnjp:沖縄県宮古島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮古島市> .
+
+gnjp:北海道川上郡標茶町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/標茶町> .
+
+gnjp:長野県諏訪郡原村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/原村> .
+
+gnjp:北海道檜山郡厚沢部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/厚沢部町> .
+
+gnjp:神奈川県秦野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秦野市> .
+
+gnjp:京都府船井郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/船井郡> .
+
+gnjp:山形県酒田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/酒田市> .
+
+gnjp:北海道古宇郡泊村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泊村> .
+
+gnjp:北海道十勝郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/十勝郡> .
+
+gnjp:新潟県新潟市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (新潟市)> .
+
+gnjp:富山県射水市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/射水市> .
+
+gnjp:新潟県村上市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/村上市> .
+
+gnjp:福岡県糟屋郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/糟屋郡> .
+
+gnjp:鳥取県日野郡日南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日南町> .
+
+gnjp:愛知県知多郡武豊町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/武豊町> .
+
+gnjp:岐阜県揖斐郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/揖斐郡> .
+
+gnjp:群馬県邑楽郡板倉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/板倉町> .
+
+gnjp:北海道寿都郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/寿都郡> .
+
+gnjp:静岡県伊東市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊東市> .
+
+gnjp:静岡県田方郡函南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/函南町> .
+
+gnjp:新潟県東蒲原郡阿賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿賀町> .
+
+gnjp:鹿児島県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿児島県> .
+
+gnjp:北海道中川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中川郡> .
+
+gnjp:北海道札幌市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (札幌市)> .
+
+gnjp:栃木県真岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/真岡市> .
+
+gnjp:秋田県潟上市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/潟上市> .
+
+gnjp:北海道上川郡当麻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/当麻町> .
+
+gnjp:兵庫県神崎郡福崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福崎町> .
+
+gnjp:熊本県上益城郡山都町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山都町> .
+
+gnjp:宮城県遠田郡涌谷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/涌谷町> .
+
+gnjp:群馬県利根郡みなかみ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みなかみ町> .
+
+gnjp:大阪府泉佐野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉佐野市> .
+
+gnjp:京都府相楽郡南山城村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南山城村> .
+
+gnjp:宮城県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮城県> .
+
+gnjp:長野県上高井郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上高井郡> .
+
+gnjp:茨城県久慈郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久慈郡> .
+
+gnjp:佐賀県嬉野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嬉野市> .
+
+gnjp:北海道紋別郡湧別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湧別町> .
+
+gnjp:茨城県東茨城郡大洗町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大洗町> .
+
+gnjp:埼玉県北葛飾郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北葛飾郡> .
+
+gnjp:愛知県西春日井郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西春日井郡> .
+
+gnjp:青森県青森市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青森市> .
+
+gnjp:秋田県北秋田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北秋田市> .
+
+gnjp:愛知県一宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/一宮市> .
+
+gnjp:埼玉県新座市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新座市> .
+
+gnjp:岡山県小田郡矢掛町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/矢掛町> .
+
+gnjp:宮城県岩沼市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩沼市> .
+
+gnjp:東京都あきる野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/あきる野市> .
+
+gnjp:大阪府吹田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吹田市> .
+
+gnjp:沖縄県島尻郡渡名喜村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/渡名喜村> .
+
+gnjp:大分県豊後大野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊後大野市> .
+
+gnjp:北海道紋別郡遠軽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遠軽町> .
+
+gnjp:千葉県柏市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柏市> .
+
+gnjp:長野県飯田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯田市> .
+
+gnjp:宮崎県延岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/延岡市> .
+
+gnjp:静岡県駿東郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/駿東郡> .
+
+gnjp:福島県田村郡三春町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三春町> .
+
+gnjp:北海道虻田郡真狩村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/真狩村> .
+
+gnjp:千葉県長生郡長柄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長柄町> .
+
+gnjp:沖縄県島尻郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島尻郡> .
+
+gnjp:大阪府大阪市東住吉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東住吉区> .
+
+gnjp:大分県国東市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国東市> .
+
+gnjp:千葉県鎌ケ谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鎌ケ谷市> .
+
+gnjp:宮城県仙台市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仙台市> .
+
+gnjp:神奈川県茅ヶ崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茅ヶ崎市> .
+
+gnjp:奈良県御所市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御所市> .
+
+gnjp:広島県呉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/呉市> .
+
+gnjp:山形県寒河江市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/寒河江市> .
+
+gnjp:静岡県賀茂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/賀茂郡> .
+
+gnjp:奈良県大和高田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大和高田市> .
+
+gnjp:埼玉県入間市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/入間市> .
+
+gnjp:秋田県雄勝郡東成瀬村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東成瀬村> .
+
+gnjp:神奈川県三浦郡葉山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葉山町> .
+
+gnjp:沖縄県島尻郡座間味村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/座間味村> .
+
+gnjp:茨城県常陸太田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/常陸太田市> .
+
+gnjp:福井県三方郡美浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美浜町 (福井県)> .
+
+gnjp:広島県福山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福山市> .
+
+gnjp:滋賀県犬上郡甲良町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甲良町> .
+
+gnjp:奈良県宇陀郡曽爾村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/曽爾村> .
+
+gnjp:静岡県静岡市葵区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葵区> .
+
+gnjp:神奈川県足柄下郡湯河原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯河原町> .
+
+gnjp:北海道広尾郡広尾町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広尾町> .
+
+gnjp:石川県能美郡川北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川北町> .
+
+gnjp:広島県広島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広島市> .
+
+gnjp:京都府京丹後市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京丹後市> .
+
+gnjp:愛媛県今治市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/今治市> .
+
+gnjp:鹿児島県肝属郡肝付町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/肝付町> .
+
+gnjp:京都府京都市伏見区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伏見区> .
+
+gnjp:福岡県筑紫野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/筑紫野市> .
+
+gnjp:長野県南佐久郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南佐久郡> .
+
+gnjp:大阪府堺市中区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中区 (堺市)> .
+
+gnjp:埼玉県戸田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/戸田市> .
+
+gnjp:福井県吉田郡永平寺町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/永平寺町> .
+
+gnjp:新潟県胎内市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/胎内市> .
+
+gnjp:広島県安芸郡熊野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊野町> .
+
+gnjp:宮崎県都城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/都城市> .
+
+gnjp:石川県能美市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/能美市> .
+
+gnjp:千葉県印旛郡栄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栄町> .
+
+gnjp:広島県尾道市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/尾道市> .
+
+gnjp:愛知県日進市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日進市> .
+
+gnjp:福岡県春日市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/春日市> .
+
+gnjp:岐阜県安八郡神戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神戸町> .
+
+gnjp:北海道空知郡奈井江町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奈井江町> .
+
+gnjp:山梨県南巨摩郡早川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/早川町> .
+
+gnjp:宮城県加美郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加美郡> .
+
+gnjp:島根県隠岐郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/隠岐郡> .
+
+gnjp:北海道雨竜郡雨竜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雨竜町> .
+
+gnjp:福岡県北九州市小倉南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小倉南区> .
+
+gnjp:愛知県知多郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/知多郡> .
+
+gnjp:大阪府南河内郡千早赤阪村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千早赤阪村> .
+
+gnjp:岐阜県加茂郡七宗町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/七宗町> .
+
+gnjp:茨城県北相馬郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北相馬郡> .
+
+gnjp:北海道亀田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/亀田郡> .
+
+gnjp:兵庫県西脇市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西脇市> .
+
+gnjp:群馬県吾妻郡嬬恋村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嬬恋村> .
+
+gnjp:熊本県葦北郡芦北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芦北町> .
+
+gnjp:徳島県海部郡牟岐町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/牟岐町> .
+
+gnjp:福島県相馬市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/相馬市> .
+
+gnjp:長野県上伊那郡中川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中川村> .
+
+gnjp:北海道中川郡本別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本別町> .
+
+gnjp:沖縄県中頭郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中頭郡> .
+
+gnjp:佐賀県伊万里市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊万里市> .
+
+gnjp:三重県度会郡大紀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大紀町> .
+
+gnjp:長崎県西海市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西海市> .
+
+gnjp:広島県豊田郡大崎上島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大崎上島町> .
+
+gnjp:山梨県南都留郡山中湖村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山中湖村> .
+
+gnjp:北海道紋別郡西興部村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西興部村> .
+
+gnjp:鳥取県東伯郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東伯郡> .
+
+gnjp:静岡県御前崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御前崎市> .
+
+gnjp:福島県双葉郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/双葉郡> .
+
+gnjp:栃木県那須郡那須町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那須町> .
+
+gnjp:千葉県香取郡多古町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多古町> .
+
+gnjp:三重県伊勢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊勢市> .
+
+gnjp:福島県西白河郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西白河郡> .
+
+gnjp:三重県多気郡多気町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多気町> .
+
+gnjp:山梨県南アルプス市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南アルプス市> .
+
+gnjp:北海道阿寒郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿寒郡> .
+
+gnjp:埼玉県児玉郡美里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美里町 (埼玉県)> .
+
+gnjp:沖縄県八重山郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八重山郡> .
+
+gnjp:三重県尾鷲市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/尾鷲市> .
+
+gnjp:群馬県多野郡神流町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神流町> .
+
+gnjp:東京都  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東京都> .
+
+gnjp:鹿児島県西之表市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西之表市> .
+
+gnjp:佐賀県西松浦郡有田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/有田町> .
+
+gnjp:千葉県千葉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千葉市> .
+
+gnjp:山形県西置賜郡飯豊町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯豊町> .
+
+gnjp:福島県双葉郡川内村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川内村> .
+
+gnjp:北海道網走郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/網走郡> .
+
+gnjp:兵庫県赤穂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/赤穂郡> .
+
+gnjp:千葉県我孫子市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/我孫子市> .
+
+gnjp:熊本県上益城郡御船町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御船町> .
+
+gnjp:広島県安芸郡海田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海田町> .
+
+gnjp:長野県伊那市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊那市> .
+
+gnjp:愛知県海部郡大治町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大治町> .
+
+gnjp:三重県鈴鹿市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鈴鹿市> .
+
+gnjp:秋田県雄勝郡羽後町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽後町> .
+
+gnjp:千葉県船橋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/船橋市> .
+
+gnjp:石川県鳳珠郡穴水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/穴水町> .
+
+gnjp:山口県周南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/周南市> .
+
+gnjp:岡山県浅口市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浅口市> .
+
+gnjp:北海道中川郡中川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中川町> .
+
+gnjp:兵庫県川辺郡猪名川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/猪名川町> .
+
+gnjp:神奈川県横浜市泉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉区 (横浜市)> .
+
+gnjp:富山県下新川郡入善町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/入善町> .
+
+gnjp:沖縄県沖縄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/沖縄市> .
+
+gnjp:熊本県八代郡氷川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/氷川町> .
+
+gnjp:愛知県愛知郡東郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東郷町> .
+
+gnjp:京都府乙訓郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/乙訓郡> .
+
+gnjp:青森県東津軽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東津軽郡> .
+
+gnjp:北海道虻田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/虻田郡> .
+
+gnjp:埼玉県さいたま市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (さいたま市)> .
+
+gnjp:三重県松阪市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松阪市> .
+
+gnjp:長野県下水内郡栄村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栄村> .
+
+gnjp:佐賀県鹿島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿島市> .
+
+gnjp:岩手県岩手郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩手郡> .
+
+gnjp:北海道宗谷郡猿払村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/猿払村> .
+
+gnjp:神奈川県藤沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤沢市> .
+
+gnjp:山形県最上郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/最上郡> .
+
+gnjp:青森県南津軽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南津軽郡> .
+
+gnjp:山形県東村山郡山辺町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山辺町> .
+
+gnjp:北海道上川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上川郡> .
+
+gnjp:埼玉県南埼玉郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南埼玉郡> .
+
+gnjp:北海道夕張郡由仁町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/由仁町> .
+
+gnjp:千葉県習志野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/習志野市> .
+
+gnjp:長野県木曽郡上松町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上松町> .
+
+gnjp:秋田県横手市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/横手市> .
+
+gnjp:秋田県にかほ市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/にかほ市> .
+
+gnjp:熊本県熊本市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (熊本市)> .
+
+gnjp:福岡県田川郡糸田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/糸田町> .
+
+gnjp:青森県弘前市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/弘前市> .
+
+gnjp:岐阜県加茂郡東白川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東白川村> .
+
+gnjp:青森県三戸郡三戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三戸町> .
+
+gnjp:茨城県稲敷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稲敷市> .
+
+gnjp:愛知県名古屋市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (名古屋市)> .
+
+gnjp:東京都千代田区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千代田区> .
+
+gnjp:鹿児島県大島郡伊仙町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊仙町> .
+
+gnjp:熊本県球磨郡五木村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五木村> .
+
+gnjp:高知県幡多郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幡多郡> .
+
+gnjp:兵庫県加東市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加東市> .
+
+gnjp:岐阜県大垣市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大垣市> .
+
+gnjp:宮崎県宮崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮崎市> .
+
+gnjp:山形県北村山郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北村山郡> .
+
+gnjp:京都府宮津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮津市> .
+
+gnjp:岩手県花巻市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/花巻市> .
+
+gnjp:群馬県利根郡片品村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/片品村> .
+
+gnjp:福岡県北九州市八幡西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八幡西区> .
+
+gnjp:香川県仲多度郡多度津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多度津町> .
+
+gnjp:群馬県北群馬郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北群馬郡> .
+
+gnjp:宮崎県東臼杵郡椎葉村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/椎葉村> .
+
+gnjp:岐阜県美濃市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美濃市> .
+
+gnjp:新潟県新潟市江南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江南区 (新潟市)> .
+
+gnjp:兵庫県たつの市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/たつの市> .
+
+gnjp:大阪府南河内郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南河内郡> .
+
+gnjp:鳥取県西伯郡伯耆町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伯耆町> .
+
+gnjp:静岡県駿東郡清水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清水町 (静岡県)> .
+
+gnjp:千葉県袖ケ浦市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/袖ケ浦市> .
+
+gnjp:長野県下伊那郡根羽村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/根羽村> .
+
+gnjp:山口県岩国市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩国市> .
+
+gnjp:京都府京都市東山区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東山区> .
+
+gnjp:長野県飯山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯山市> .
+
+gnjp:富山県下新川郡朝日町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝日町 (富山県)> .
+
+gnjp:秋田県雄勝郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雄勝郡> .
+
+gnjp:茨城県猿島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/猿島郡> .
+
+gnjp:三重県度会郡南伊勢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南伊勢町> .
+
+gnjp:徳島県三好郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三好郡> .
+
+gnjp:熊本県下益城郡美里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美里町 (熊本県)> .
+
+gnjp:福島県耶麻郡西会津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西会津町> .
+
+gnjp:滋賀県東近江市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東近江市> .
+
+gnjp:北海道石狩郡新篠津村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新篠津村> .
+
+gnjp:岡山県加賀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加賀郡> .
+
+gnjp:長崎県島原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島原市> .
+
+gnjp:岡山県苫田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/苫田郡> .
+
+gnjp:鳥取県八頭郡八頭町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八頭町> .
+
+gnjp:埼玉県北葛飾郡松伏町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松伏町> .
+
+gnjp:秋田県能代市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/能代市> .
+
+gnjp:広島県広島市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (広島市)> .
+
+gnjp:北海道天塩郡幌延町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幌延町> .
+
+gnjp:香川県東かがわ市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東かがわ市> .
+
+gnjp:福岡県糟屋郡須恵町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/須恵町> .
+
+gnjp:長野県上水内郡信濃町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/信濃町> .
+
+gnjp:愛知県名古屋市守山区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/守山区> .
+
+gnjp:和歌山県橋本市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/橋本市> .
+
+gnjp:千葉県野田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野田市> .
+
+gnjp:福岡県築上郡築上町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/築上町> .
+
+gnjp:和歌山県東牟婁郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東牟婁郡> .
+
+gnjp:福岡県田川郡香春町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香春町> .
+
+gnjp:香川県綾歌郡綾川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/綾川町> .
+
+gnjp:熊本県菊池郡菊陽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/菊陽町> .
+
+gnjp:岐阜県本巣郡北方町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北方町> .
+
+gnjp:東京都江東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江東区> .
+
+gnjp:和歌山県岩出市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩出市> .
+
+gnjp:静岡県駿東郡長泉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長泉町> .
+
+gnjp:滋賀県草津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/草津市> .
+
+gnjp:兵庫県多可郡多可町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多可町> .
+
+gnjp:栃木県芳賀郡茂木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茂木町> .
+
+gnjp:奈良県吉野郡下市町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下市町> .
+
+gnjp:沖縄県豊見城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊見城市> .
+
+gnjp:鳥取県西伯郡大山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大山町> .
+
+gnjp:兵庫県神戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神戸市> .
+
+gnjp:大阪府大阪市旭区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/旭区 (大阪市)> .
+
+gnjp:福岡県田川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田川郡> .
+
+gnjp:大阪府高槻市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高槻市> .
+
+gnjp:山形県山形市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山形市> .
+
+gnjp:三重県多気郡明和町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/明和町 (三重県)> .
+
+gnjp:東京都葛飾区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葛飾区> .
+
+gnjp:福岡県京都郡みやこ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みやこ町> .
+
+gnjp:北海道二海郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/二海郡> .
+
+gnjp:北海道有珠郡壮瞥町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/壮瞥町> .
+
+gnjp:青森県南津軽郡田舎館村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田舎館村> .
+
+gnjp:沖縄県うるま市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/うるま市> .
+
+gnjp:山口県玖珂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玖珂郡> .
+
+gnjp:福島県伊達郡国見町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国見町> .
+
+gnjp:愛媛県宇和島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇和島市> .
+
+gnjp:滋賀県愛知郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛知郡 (滋賀県)> .
+
+gnjp:岐阜県各務原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/各務原市> .
+
+gnjp:兵庫県洲本市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/洲本市> .
+
+gnjp:福井県敦賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/敦賀市> .
+
+gnjp:徳島県吉野川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉野川市> .
+
+gnjp:埼玉県行田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/行田市> .
+
+gnjp:栃木県足利市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/足利市> .
+
+gnjp:千葉県印旛郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/印旛郡> .
+
+gnjp:山形県西村山郡西川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西川町> .
+
+gnjp:神奈川県足柄上郡中井町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中井町> .
+
+gnjp:鹿児島県肝属郡錦江町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/錦江町> .
+
+gnjp:北海道野付郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野付郡> .
+
+gnjp:京都府京都市右京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/右京区> .
+
+gnjp:長野県安曇野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安曇野市> .
+
+gnjp:沖縄県国頭郡大宜味村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大宜味村> .
+
+gnjp:鳥取県日野郡江府町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江府町> .
+
+gnjp:大阪府柏原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柏原市> .
+
+gnjp:大阪府大阪市此花区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/此花区> .
+
+gnjp:鹿児島県大島郡龍郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/龍郷町> .
+
+gnjp:北海道釧路郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/釧路郡> .
+
+gnjp:神奈川県高座郡寒川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/寒川町> .
+
+gnjp:岡山県倉敷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/倉敷市> .
+
+gnjp:徳島県那賀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那賀郡> .
+
+gnjp:鳥取県東伯郡湯梨浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯梨浜町> .
+
+gnjp:北海道久遠郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久遠郡> .
+
+gnjp:佐賀県杵島郡大町町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大町町> .
+
+gnjp:愛知県名古屋市緑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/緑区 (名古屋市)> .
+
+gnjp:岐阜県可児市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/可児市> .
+
+gnjp:愛知県西春日井郡豊山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊山町> .
+
+gnjp:北海道網走郡大空町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大空町> .
+
+gnjp:福岡県鞍手郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鞍手郡> .
+
+gnjp:岩手県和賀郡西和賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西和賀町> .
+
+gnjp:神奈川県足柄上郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/足柄上郡> .
+
+gnjp:岡山県加賀郡吉備中央町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉備中央町> .
+
+gnjp:宮城県白石市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白石市> .
+
+gnjp:岩手県和賀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和賀郡> .
+
+gnjp:愛知県知立市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/知立市> .
+
+gnjp:北海道上川郡清水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清水町 (北海道)> .
+
+gnjp:愛媛県松山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松山市> .
+
+gnjp:沖縄県島尻郡南風原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南風原町> .
+
+gnjp:北海道旭川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/旭川市> .
+
+gnjp:北海道留萌郡小平町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小平町> .
+
+gnjp:宮崎県東諸県郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東諸県郡> .
+
+gnjp:北海道天塩郡遠別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遠別町> .
+
+gnjp:岩手県滝沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/滝沢市> .
+
+gnjp:北海道河東郡士幌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/士幌町> .
+
+gnjp:香川県善通寺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/善通寺市> .
+
+gnjp:青森県北津軽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北津軽郡> .
+
+gnjp:千葉県君津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/君津市> .
+
+gnjp:福岡県田川郡川崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川崎町 (福岡県)> .
+
+gnjp:沖縄県中頭郡北中城村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北中城村> .
+
+gnjp:滋賀県愛知郡愛荘町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛荘町> .
+
+gnjp:長野県上伊那郡宮田村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮田村> .
+
+gnjp:大阪府門真市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/門真市> .
+
+gnjp:沖縄県国頭郡本部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本部町> .
+
+gnjp:広島県庄原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/庄原市> .
+
+gnjp:東京都小笠原村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小笠原村> .
+
+gnjp:岡山県岡山市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (岡山市)> .
+
+gnjp:大阪府堺市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (堺市)> .
+
+gnjp:愛知県安城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安城市> .
+
+gnjp:北海道沙流郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/沙流郡> .
+
+gnjp:北海道雨竜郡妹背牛町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/妹背牛町> .
+
+gnjp:鹿児島県熊毛郡南種子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南種子町> .
+
+gnjp:三重県桑名郡木曽岬町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木曽岬町> .
+
+gnjp:熊本県菊池郡大津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大津町> .
+
+gnjp:大阪府和泉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和泉市> .
+
+gnjp:富山県中新川郡上市町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上市町> .
+
+gnjp:鳥取県境港市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/境港市> .
+
+gnjp:愛知県新城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新城市> .
+
+gnjp:佐賀県三養基郡上峰町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上峰町> .
+
+gnjp:和歌山県有田郡湯浅町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯浅町> .
+
+gnjp:新潟県佐渡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐渡市> .
+
+gnjp:愛知県碧南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/碧南市> .
+
+gnjp:宮城県柴田郡村田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/村田町> .
+
+gnjp:宮城県黒川郡大衡村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大衡村> .
+
+gnjp:岐阜県養老郡養老町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/養老町> .
+
+gnjp:北海道枝幸郡浜頓別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浜頓別町> .
+
+gnjp:埼玉県さいたま市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/さいたま市> .
+
+gnjp:岩手県九戸郡野田村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野田村> .
+
+gnjp:北海道雨竜郡幌加内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幌加内町> .
+
+gnjp:青森県下北郡佐井村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐井村> .
+
+gnjp:新潟県岩船郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩船郡> .
+
+gnjp:奈良県橿原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/橿原市> .
+
+gnjp:奈良県磯城郡三宅町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三宅町> .
+
+gnjp:新潟県新潟市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新潟市> .
+
+gnjp:大阪府泉南郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉南郡> .
+
+gnjp:千葉県千葉市稲毛区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稲毛区> .
+
+gnjp:北海道常呂郡佐呂間町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐呂間町> .
+
+gnjp:滋賀県蒲生郡竜王町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/竜王町> .
+
+gnjp:長野県上高井郡小布施町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小布施町> .
+
+gnjp:福島県須賀川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/須賀川市> .
+
+gnjp:神奈川県相模原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/相模原市> .
+
+gnjp:鹿児島県姶良郡湧水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湧水町> .
+
+gnjp:群馬県沼田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/沼田市> .
+
+gnjp:滋賀県犬上郡豊郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊郷町> .
+
+gnjp:石川県かほく市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/かほく市> .
+
+gnjp:愛知県名古屋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名古屋市> .
+
+gnjp:茨城県北茨城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北茨城市> .
+
+gnjp:新潟県妙高市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/妙高市> .
+
+gnjp:栃木県那須烏山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那須烏山市> .
+
+gnjp:長野県長野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長野市> .
+
+gnjp:栃木県塩谷郡塩谷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/塩谷町> .
+
+gnjp:福岡県嘉穂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嘉穂郡> .
+
+gnjp:岐阜県恵那市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/恵那市> .
+
+gnjp:山口県熊毛郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊毛郡 (山口県)> .
+
+gnjp:北海道札幌市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (札幌市)> .
+
+gnjp:北海道上川郡東川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東川町> .
+
+gnjp:沖縄県島尻郡久米島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久米島町> .
+
+gnjp:埼玉県越谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/越谷市> .
+
+gnjp:徳島県板野郡板野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/板野町> .
+
+gnjp:埼玉県比企郡吉見町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉見町> .
+
+gnjp:岐阜県加茂郡富加町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富加町> .
+
+gnjp:茨城県つくばみらい市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/つくばみらい市> .
+
+gnjp:兵庫県赤穂郡上郡町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上郡町> .
+
+gnjp:山口県防府市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/防府市> .
+
+gnjp:熊本県玉名郡玉東町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉東町> .
+
+gnjp:静岡県浜松市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (浜松市)> .
+
+gnjp:奈良県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奈良県> .
+
+gnjp:鳥取県岩美郡岩美町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩美町> .
+
+gnjp:兵庫県神戸市灘区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/灘区> .
+
+gnjp:広島県広島市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (広島市)> .
+
+gnjp:熊本県山鹿市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山鹿市> .
+
+gnjp:長崎県平戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平戸市> .
+
+gnjp:青森県上北郡横浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/横浜町> .
+
+gnjp:岩手県下閉伊郡山田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山田町> .
+
+gnjp:長野県上伊那郡箕輪町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/箕輪町> .
+
+gnjp:熊本県阿蘇郡小国町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小国町 (熊本県)> .
+
+gnjp:青森県下北郡大間町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大間町> .
+
+gnjp:広島県江田島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江田島市> .
+
+gnjp:静岡県静岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/静岡市> .
+
+gnjp:大阪府大阪市西淀川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西淀川区> .
+
+gnjp:福島県南会津郡南会津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南会津町> .
+
+gnjp:兵庫県神崎郡神河町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神河町> .
+
+gnjp:大阪府泉大津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉大津市> .
+
+gnjp:北海道空知郡上富良野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上富良野町> .
+
+gnjp:大阪府茨木市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茨木市> .
+
+gnjp:北海道中川郡池田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/池田町 (北海道)> .
+
+gnjp:千葉県山武市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山武市> .
+
+gnjp:岩手県九戸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/九戸郡> .
+
+gnjp:愛知県丹羽郡扶桑町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/扶桑町> .
+
+gnjp:島根県益田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/益田市> .
+
+gnjp:宮城県登米市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/登米市> .
+
+gnjp:福岡県福岡市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (福岡市)> .
+
+gnjp:栃木県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栃木県> .
+
+gnjp:福島県双葉郡富岡町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富岡町> .
+
+gnjp:長野県北佐久郡軽井沢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/軽井沢町> .
+
+gnjp:山梨県中巨摩郡昭和町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/昭和町> .
+
+gnjp:秋田県仙北郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仙北郡> .
+
+gnjp:熊本県水俣市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/水俣市> .
+
+gnjp:岩手県二戸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/二戸郡> .
+
+gnjp:秋田県南秋田郡大潟村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大潟村> .
+
+gnjp:埼玉県加須市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加須市> .
+
+gnjp:群馬県富岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富岡市> .
+
+gnjp:高知県安芸郡東洋町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東洋町> .
+
+gnjp:福島県双葉郡楢葉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/楢葉町> .
+
+gnjp:長野県下高井郡野沢温泉村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野沢温泉村> .
+
+gnjp:北海道苫前郡初山別村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/初山別村> .
+
+gnjp:兵庫県養父市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/養父市> .
+
+gnjp:北海道標津郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/標津郡> .
+
+gnjp:長野県北安曇郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北安曇郡> .
+
+gnjp:宮城県名取市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名取市> .
+
+gnjp:福井県今立郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/今立郡> .
+
+gnjp:福岡県大川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大川市> .
+
+gnjp:鹿児島県阿久根市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿久根市> .
+
+gnjp:大阪府大阪市福島区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福島区> .
+
+gnjp:熊本県阿蘇市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿蘇市> .
+
+gnjp:福岡県築上郡上毛町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上毛町> .
+
+gnjp:香川県仲多度郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仲多度郡> .
+
+gnjp:岩手県大船渡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大船渡市> .
+
+gnjp:北海道樺戸郡月形町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/月形町> .
+
+gnjp:山梨県北都留郡丹波山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/丹波山村> .
+
+gnjp:北海道山越郡長万部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長万部町> .
+
+gnjp:岡山県井原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/井原市> .
+
+gnjp:愛知県額田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/額田郡> .
+
+gnjp:大阪府堺市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (堺市)> .
+
+gnjp:北海道上川郡上川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上川町> .
+
+gnjp:大阪府富田林市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富田林市> .
+
+gnjp:長野県諏訪郡富士見町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富士見町> .
+
+gnjp:岩手県九戸郡九戸村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/九戸村> .
+
+gnjp:茨城県ひたちなか市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/ひたちなか市> .
+
+gnjp:福島県耶麻郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/耶麻郡> .
+
+gnjp:鹿児島県志布志市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/志布志市> .
+
+gnjp:愛知県知多郡東浦町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東浦町> .
+
+gnjp:新潟県小千谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小千谷市> .
+
+gnjp:岩手県岩手郡葛巻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葛巻町> .
+
+gnjp:島根県飯石郡飯南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯南町> .
+
+gnjp:北海道厚岸郡浜中町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浜中町> .
+
+gnjp:佐賀県西松浦郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西松浦郡> .
+
+gnjp:岡山県久米郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久米郡> .
+
+gnjp:東京都江戸川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江戸川区> .
+
+gnjp:北海道石狩郡当別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/当別町> .
+
+gnjp:北海道松前郡福島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福島町> .
+
+gnjp:茨城県坂東市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂東市> .
+
+gnjp:新潟県南魚沼市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南魚沼市> .
+
+gnjp:青森県西津軽郡鰺ヶ沢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鰺ヶ沢町> .
+
+gnjp:長野県駒ヶ根市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/駒ヶ根市> .
+
+gnjp:兵庫県加西市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加西市> .
+
+gnjp:愛媛県伊予郡砥部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/砥部町> .
+
+gnjp:高知県高岡郡中土佐町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中土佐町> .
+
+gnjp:茨城県常総市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/常総市> .
+
+gnjp:長野県北佐久郡御代田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御代田町> .
+
+gnjp:愛媛県八幡浜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八幡浜市> .
+
+gnjp:高知県香美市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香美市> .
+
+gnjp:埼玉県児玉郡神川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神川町> .
+
+gnjp:兵庫県朝来市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝来市> .
+
+gnjp:北海道磯谷郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/磯谷郡> .
+
+gnjp:岩手県岩手郡雫石町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雫石町> .
+
+gnjp:徳島県名西郡石井町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石井町> .
+
+gnjp:福岡県嘉穂郡桂川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桂川町> .
+
+gnjp:茨城県日立市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日立市> .
+
+gnjp:愛知県知多郡阿久比町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿久比町> .
+
+gnjp:和歌山県有田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/有田市> .
+
+gnjp:宮崎県北諸県郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北諸県郡> .
+
+gnjp:山口県阿武郡阿武町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿武町> .
+
+gnjp:兵庫県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/兵庫県> .
+
+gnjp:山形県村山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/村山市> .
+
+gnjp:東京都足立区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/足立区> .
+
+gnjp:長崎県北松浦郡佐々町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐々町> .
+
+gnjp:栃木県芳賀郡市貝町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/市貝町> .
+
+gnjp:長崎県東彼杵郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東彼杵郡> .
+
+gnjp:大阪府大阪市港区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/港区 (大阪市)> .
+
+gnjp:愛知県丹羽郡大口町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大口町> .
+
+gnjp:北海道広尾郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広尾郡> .
+
+gnjp:島根県雲南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雲南市> .
+
+gnjp:奈良県宇陀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇陀郡> .
+
+gnjp:滋賀県甲賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甲賀市> .
+
+gnjp:福井県坂井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂井市> .
+
+gnjp:千葉県四街道市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/四街道市> .
+
+gnjp:大阪府三島郡島本町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島本町> .
+
+gnjp:福岡県福岡市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (福岡市)> .
+
+gnjp:山梨県南巨摩郡富士川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富士川町> .
+
+gnjp:香川県香川郡直島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/直島町> .
+
+gnjp:石川県河北郡内灘町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/内灘町> .
+
+gnjp:青森県三戸郡田子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田子町> .
+
+gnjp:山梨県南都留郡道志村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/道志村> .
+
+gnjp:静岡県賀茂郡松崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松崎町> .
+
+gnjp:栃木県栃木市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栃木市> .
+
+gnjp:広島県山県郡北広島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北広島町> .
+
+gnjp:島根県仁多郡奥出雲町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奥出雲町> .
+
+gnjp:埼玉県秩父郡小鹿野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小鹿野町> .
+
+gnjp:愛知県田原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田原市> .
+
+gnjp:和歌山県日高郡印南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/印南町> .
+
+gnjp:福岡県田川郡添田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/添田町> .
+
+gnjp:岐阜県羽島郡岐南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岐南町> .
+
+gnjp:宮城県栗原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/栗原市> .
+
+gnjp:和歌山県海草郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海草郡> .
+
+gnjp:岡山県都窪郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/都窪郡> .
+
+gnjp:静岡県菊川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/菊川市> .
+
+gnjp:埼玉県入間郡毛呂山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/毛呂山町> .
+
+gnjp:宮崎県東臼杵郡美郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美郷町 (宮崎県)> .
+
+gnjp:熊本県阿蘇郡高森町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高森町 (熊本県)> .
+
+gnjp:山形県東田川郡庄内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/庄内町> .
+
+gnjp:高知県高岡郡越知町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/越知町> .
+
+gnjp:島根県松江市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松江市> .
+
+gnjp:兵庫県神崎郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神崎郡> .
+
+gnjp:埼玉県秩父郡皆野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/皆野町> .
+
+gnjp:千葉県千葉市花見川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/花見川区> .
+
+gnjp:青森県西津軽郡深浦町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/深浦町> .
+
+gnjp:熊本県八代市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八代市> .
+
+gnjp:高知県高岡郡檮原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/檮原町> .
+
+gnjp:福岡県糟屋郡篠栗町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/篠栗町> .
+
+gnjp:高知県宿毛市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宿毛市> .
+
+gnjp:埼玉県さいたま市岩槻区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩槻区> .
+
+gnjp:香川県丸亀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/丸亀市> .
+
+gnjp:愛知県知多市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/知多市> .
+
+gnjp:鹿児島県大島郡喜界町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/喜界町> .
+
+gnjp:愛知県名古屋市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (名古屋市)> .
+
+gnjp:岡山県新見市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新見市> .
+
+gnjp:千葉県長生郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長生郡> .
+
+gnjp:福島県耶麻郡猪苗代町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/猪苗代町> .
+
+gnjp:福島県耶麻郡磐梯町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/磐梯町> .
+
+gnjp:広島県世羅郡世羅町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/世羅町> .
+
+gnjp:大阪府大阪市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (大阪市)> .
+
+gnjp:北海道目梨郡羅臼町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羅臼町> .
+
+gnjp:東京都港区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/港区 (東京都)> .
+
+gnjp:岩手県西磐井郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西磐井郡> .
+
+gnjp:神奈川県高座郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高座郡> .
+
+gnjp:兵庫県加古郡稲美町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稲美町> .
+
+gnjp:岐阜県飛騨市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飛騨市> .
+
+gnjp:三重県多気郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多気郡> .
+
+gnjp:北海道様似郡様似町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/様似町> .
+
+gnjp:富山県下新川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下新川郡> .
+
+gnjp:福島県双葉郡浪江町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浪江町> .
+
+gnjp:愛知県豊田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊田市> .
+
+gnjp:静岡県榛原郡吉田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉田町> .
+
+gnjp:千葉県鴨川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鴨川市> .
+
+gnjp:大阪府堺市堺区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/堺区> .
+
+gnjp:埼玉県熊谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊谷市> .
+
+gnjp:愛媛県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛媛県> .
+
+gnjp:石川県鳳珠郡能登町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/能登町> .
+
+gnjp:島根県大田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大田市> .
+
+gnjp:岐阜県揖斐郡池田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/池田町 (岐阜県)> .
+
+gnjp:岩手県北上市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北上市> .
+
+gnjp:和歌山県日高郡美浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美浜町 (和歌山県)> .
+
+gnjp:静岡県榛原郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/榛原郡> .
+
+gnjp:神奈川県横浜市中区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中区 (横浜市)> .
+
+gnjp:高知県安芸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安芸郡 (高知県)> .
+
+gnjp:神奈川県足柄上郡開成町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/開成町> .
+
+gnjp:島根県鹿足郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿足郡> .
+
+gnjp:山梨県北都留郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北都留郡> .
+
+gnjp:神奈川県横浜市緑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/緑区 (横浜市)> .
+
+gnjp:茨城県取手市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/取手市> .
+
+gnjp:高知県南国市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南国市> .
+
+gnjp:愛知県岩倉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩倉市> .
+
+gnjp:千葉県匝瑳市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/匝瑳市> .
+
+gnjp:北海道上磯郡木古内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木古内町> .
+
+gnjp:福岡県福岡市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (福岡市)> .
+
+gnjp:埼玉県志木市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/志木市> .
+
+gnjp:鳥取県日野郡日野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日野町 (鳥取県)> .
+
+gnjp:兵庫県神戸市兵庫区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/兵庫区> .
+
+gnjp:岐阜県安八郡安八町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安八町> .
+
+gnjp:兵庫県加古川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加古川市> .
+
+gnjp:福島県双葉郡大熊町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大熊町> .
+
+gnjp:福島県本宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本宮市> .
+
+gnjp:静岡県袋井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/袋井市> .
+
+gnjp:長崎県南島原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南島原市> .
+
+gnjp:佐賀県神埼郡吉野ヶ里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉野ヶ里町> .
+
+gnjp:富山県砺波市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/砺波市> .
+
+gnjp:岡山県和気郡和気町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和気町> .
+
+gnjp:徳島県阿南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿南市> .
+
+gnjp:福岡県宗像市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宗像市> .
+
+gnjp:広島県世羅郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/世羅郡> .
+
+gnjp:奈良県葛城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/葛城市> .
+
+gnjp:茨城県猿島郡五霞町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五霞町> .
+
+gnjp:福井県丹生郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/丹生郡> .
+
+gnjp:大分県臼杵市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/臼杵市> .
+
+gnjp:石川県加賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加賀市> .
+
+gnjp:長崎県対馬市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/対馬市> .
+
+gnjp:群馬県甘楽郡下仁田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下仁田町> .
+
+gnjp:埼玉県秩父郡東秩父村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東秩父村> .
+
+gnjp:和歌山県東牟婁郡北山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北山村> .
+
+gnjp:大阪府堺市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (堺市)> .
+
+gnjp:北海道中川郡音威子府村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/音威子府村> .
+
+gnjp:奈良県高市郡明日香村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/明日香村> .
+
+gnjp:千葉県市原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/市原市> .
+
+gnjp:千葉県八街市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八街市> .
+
+gnjp:群馬県佐波郡玉村町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉村町> .
+
+gnjp:大阪府大阪市天王寺区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天王寺区> .
+
+gnjp:兵庫県神戸市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (神戸市)> .
+
+gnjp:青森県下北郡風間浦村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/風間浦村> .
+
+gnjp:新潟県東蒲原郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東蒲原郡> .
+
+gnjp:山形県南陽市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南陽市> .
+
+gnjp:福岡県糟屋郡志免町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/志免町> .
+
+gnjp:沖縄県宜野湾市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宜野湾市> .
+
+gnjp:大阪府大阪市淀川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/淀川区> .
+
+gnjp:香川県坂出市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂出市> .
+
+gnjp:大阪府堺市美原区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美原区> .
+
+gnjp:埼玉県北足立郡伊奈町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊奈町> .
+
+gnjp:愛知県額田郡幸田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幸田町> .
+
+gnjp:北海道石狩市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石狩市> .
+
+gnjp:新潟県南蒲原郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南蒲原郡> .
+
+gnjp:埼玉県北葛飾郡杉戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/杉戸町> .
+
+gnjp:北海道岩内郡岩内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩内町> .
+
+gnjp:茨城県潮来市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/潮来市> .
+
+gnjp:和歌山県西牟婁郡上富田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上富田町> .
+
+gnjp:東京都国立市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国立市> .
+
+gnjp:大分県別府市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/別府市> .
+
+gnjp:群馬県多野郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多野郡> .
+
+gnjp:北海道常呂郡置戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/置戸町> .
+
+gnjp:静岡県賀茂郡東伊豆町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東伊豆町> .
+
+gnjp:千葉県千葉市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (千葉市)> .
+
+gnjp:北海道空知郡南幌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南幌町> .
+
+gnjp:福井県大飯郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大飯郡> .
+
+gnjp:岡山県浅口郡里庄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/里庄町> .
+
+gnjp:大阪府南河内郡河南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河南町> .
+
+gnjp:長野県東筑摩郡筑北村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/筑北村> .
+
+gnjp:宮城県刈田郡七ヶ宿町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/七ヶ宿町> .
+
+gnjp:大阪府池田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/池田市> .
+
+gnjp:静岡県賀茂郡南伊豆町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南伊豆町> .
+
+gnjp:北海道沙流郡日高町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高町 (北海道)> .
+
+gnjp:大阪府泉南郡田尻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田尻町> .
+
+gnjp:大分県速見郡日出町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日出町> .
+
+gnjp:長野県木曽郡大桑村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大桑村> .
+
+gnjp:徳島県鳴門市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳴門市> .
+
+gnjp:群馬県甘楽郡南牧村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南牧村 (群馬県)> .
+
+gnjp:福井県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福井県> .
+
+gnjp:青森県三戸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三戸郡> .
+
+gnjp:北海道紋別市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紋別市> .
+
+gnjp:茨城県下妻市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下妻市> .
+
+gnjp:埼玉県ふじみ野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/ふじみ野市> .
+
+gnjp:岐阜県不破郡垂井町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/垂井町> .
+
+gnjp:北海道樺戸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/樺戸郡> .
+
+gnjp:新潟県岩船郡粟島浦村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/粟島浦村> .
+
+gnjp:静岡県浜松市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浜松市> .
+
+gnjp:北海道夕張市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/夕張市> .
+
+gnjp:佐賀県神埼市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神埼市> .
+
+gnjp:山口県柳井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柳井市> .
+
+gnjp:群馬県利根郡川場村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川場村> .
+
+gnjp:福島県東白川郡矢祭町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/矢祭町> .
+
+gnjp:徳島県名西郡神山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神山町> .
+
+gnjp:長野県木曽郡木曽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木曽町> .
+
+gnjp:岡山県勝田郡勝央町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勝央町> .
+
+gnjp:三重県いなべ市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/いなべ市> .
+
+gnjp:神奈川県中郡大磯町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大磯町> .
+
+gnjp:埼玉県幸手市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/幸手市> .
+
+gnjp:沖縄県島尻郡伊平屋村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊平屋村> .
+
+gnjp:北海道伊達市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊達市 (北海道)> .
+
+gnjp:山形県鶴岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鶴岡市> .
+
+gnjp:埼玉県秩父市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秩父市> .
+
+gnjp:秋田県秋田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秋田市> .
+
+gnjp:神奈川県川崎市川崎区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川崎区> .
+
+gnjp:秋田県北秋田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北秋田郡> .
+
+gnjp:京都府宇治市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇治市> .
+
+gnjp:沖縄県島尻郡粟国村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/粟国村> .
+
+gnjp:徳島県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/徳島県> .
+
+gnjp:愛知県あま市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/あま市> .
+
+gnjp:岐阜県加茂郡川辺町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川辺町> .
+
+gnjp:栃木県那須塩原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那須塩原市> .
+
+gnjp:青森県中津軽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中津軽郡> .
+
+gnjp:茨城県東茨城郡茨城町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茨城町> .
+
+gnjp:山梨県笛吹市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/笛吹市> .
+
+gnjp:長野県南佐久郡南牧村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南牧村 (長野県)> .
+
+gnjp:群馬県安中市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安中市> .
+
+gnjp:福島県双葉郡双葉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/双葉町> .
+
+gnjp:山形県飽海郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飽海郡> .
+
+gnjp:埼玉県日高市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高市> .
+
+gnjp:千葉県茂原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茂原市> .
+
+gnjp:鹿児島県伊佐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊佐市> .
+
+gnjp:秋田県鹿角郡小坂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小坂町> .
+
+gnjp:青森県上北郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上北郡> .
+
+gnjp:大分県東国東郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東国東郡> .
+
+gnjp:奈良県磯城郡田原本町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田原本町> .
+
+gnjp:福岡県朝倉郡筑前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/筑前町> .
+
+gnjp:福岡県北九州市小倉北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小倉北区> .
+
+gnjp:愛知県名古屋市天白区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天白区> .
+
+gnjp:静岡県三島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三島市> .
+
+gnjp:埼玉県入間郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/入間郡> .
+
+gnjp:徳島県美馬市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美馬市> .
+
+gnjp:栃木県塩谷郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/塩谷郡> .
+
+gnjp:北海道標津郡標津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/標津町> .
+
+gnjp:長野県東筑摩郡生坂村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/生坂村> .
+
+gnjp:北海道虻田郡喜茂別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/喜茂別町> .
+
+gnjp:福島県河沼郡湯川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯川村> .
+
+gnjp:北海道勇払郡占冠村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/占冠村> .
+
+gnjp:奈良県生駒郡三郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三郷町> .
+
+gnjp:北海道浦河郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦河郡> .
+
+gnjp:埼玉県秩父郡長瀞町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長瀞町> .
+
+gnjp:埼玉県さいたま市浦和区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦和区> .
+
+gnjp:宮城県大崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大崎市> .
+
+gnjp:北海道雨竜郡沼田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/沼田町> .
+
+gnjp:三重県多気郡大台町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大台町> .
+
+gnjp:長野県下伊那郡大鹿村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大鹿村> .
+
+gnjp:長野県下高井郡木島平村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木島平村> .
+
+gnjp:鹿児島県いちき串木野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/いちき串木野市> .
+
+gnjp:群馬県みどり市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みどり市> .
+
+gnjp:新潟県三条市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三条市> .
+
+gnjp:東京都中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (東京都)> .
+
+gnjp:高知県須崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/須崎市> .
+
+gnjp:愛知県常滑市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/常滑市> .
+
+gnjp:長野県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長野県> .
+
+gnjp:高知県高岡郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高岡郡> .
+
+gnjp:北海道天塩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天塩郡> .
+
+gnjp:石川県能美郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/能美郡> .
+
+gnjp:北海道爾志郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/爾志郡> .
+
+gnjp:香川県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香川県> .
+
+gnjp:福島県田村郡小野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小野町> .
+
+gnjp:石川県白山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白山市> .
+
+gnjp:宮城県本吉郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本吉郡> .
+
+gnjp:山口県下関市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下関市> .
+
+gnjp:愛媛県大洲市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大洲市> .
+
+gnjp:長野県下伊那郡泰阜村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泰阜村> .
+
+gnjp:熊本県球磨郡多良木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多良木町> .
+
+gnjp:大阪府守口市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/守口市> .
+
+gnjp:富山県魚津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/魚津市> .
+
+gnjp:広島県神石郡神石高原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神石高原町> .
+
+gnjp:山口県光市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/光市> .
+
+gnjp:島根県鹿足郡津和野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津和野町> .
+
+gnjp:島根県出雲市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/出雲市> .
+
+gnjp:茨城県結城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/結城市> .
+
+gnjp:兵庫県揖保郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/揖保郡> .
+
+gnjp:青森県西津軽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西津軽郡> .
+
+gnjp:熊本県球磨郡水上村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/水上村> .
+
+gnjp:福島県相馬郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/相馬郡> .
+
+gnjp:広島県豊田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊田郡> .
+
+gnjp:大阪府大阪市西成区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西成区> .
+
+gnjp:山形県最上郡舟形町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/舟形町> .
+
+gnjp:島根県江津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江津市> .
+
+gnjp:大阪府高石市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高石市> .
+
+gnjp:北海道空知郡中富良野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中富良野町> .
+
+gnjp:大阪府豊中市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊中市> .
+
+gnjp:愛知県名古屋市港区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/港区 (名古屋市)> .
+
+gnjp:群馬県甘楽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甘楽郡> .
+
+gnjp:奈良県磯城郡川西町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川西町 (奈良県)> .
+
+gnjp:鹿児島県大島郡天城町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天城町> .
+
+gnjp:長崎県佐世保市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐世保市> .
+
+gnjp:東京都文京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/文京区> .
+
+gnjp:石川県野々市市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野々市市> .
+
+gnjp:秋田県大仙市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大仙市> .
+
+gnjp:大分県日田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日田市> .
+
+gnjp:神奈川県川崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川崎市> .
+
+gnjp:奈良県香芝市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香芝市> .
+
+gnjp:埼玉県比企郡川島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川島町> .
+
+gnjp:北海道足寄郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/足寄郡> .
+
+gnjp:岐阜県大野郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大野郡> .
+
+gnjp:愛媛県南宇和郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南宇和郡> .
+
+gnjp:長崎県大村市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大村市> .
+
+gnjp:新潟県北蒲原郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北蒲原郡> .
+
+gnjp:山梨県北都留郡小菅村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小菅村> .
+
+gnjp:奈良県吉野郡川上村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川上村 (奈良県)> .
+
+gnjp:埼玉県三郷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三郷市> .
+
+gnjp:岩手県遠野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遠野市> .
+
+gnjp:福島県西白河郡矢吹町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/矢吹町> .
+
+gnjp:北海道古宇郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古宇郡> .
+
+gnjp:埼玉県北本市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北本市> .
+
+gnjp:秋田県鹿角市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿角市> .
+
+gnjp:沖縄県中頭郡嘉手納町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嘉手納町> .
+
+gnjp:愛媛県伊予市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊予市> .
+
+gnjp:神奈川県愛甲郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛甲郡> .
+
+gnjp:北海道札幌市豊平区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊平区> .
+
+gnjp:埼玉県和光市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和光市> .
+
+gnjp:福島県田村市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田村市> .
+
+gnjp:島根県隠岐郡西ノ島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西ノ島町> .
+
+gnjp:福岡県三井郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三井郡> .
+
+gnjp:北海道紋別郡滝上町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/滝上町> .
+
+gnjp:奈良県高市郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高市郡> .
+
+gnjp:佐賀県杵島郡白石町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白石町> .
+
+gnjp:千葉県印旛郡酒々井町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/酒々井町> .
+
+gnjp:埼玉県狭山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/狭山市> .
+
+gnjp:茨城県那珂郡東海村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東海村> .
+
+gnjp:大阪府大阪市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (大阪市)> .
+
+gnjp:福岡県三井郡大刀洗町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大刀洗町> .
+
+gnjp:京都府城陽市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/城陽市> .
+
+gnjp:神奈川県横浜市旭区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/旭区 (横浜市)> .
+
+gnjp:長野県中野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中野市> .
+
+gnjp:福岡県うきは市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/うきは市> .
+
+gnjp:青森県東津軽郡今別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/今別町> .
+
+gnjp:茨城県稲敷郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稲敷郡> .
+
+gnjp:埼玉県さいたま市見沼区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/見沼区> .
+
+gnjp:福岡県遠賀郡岡垣町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岡垣町> .
+
+gnjp:新潟県十日町市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/十日町市> .
+
+gnjp:愛知県名古屋市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (名古屋市)> .
+
+gnjp:長野県諏訪郡下諏訪町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下諏訪町> .
+
+gnjp:北海道上川郡東神楽町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東神楽町> .
+
+gnjp:福井県あわら市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/あわら市> .
+
+gnjp:千葉県長生郡一宮町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/一宮町> .
+
+gnjp:青森県黒石市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/黒石市> .
+
+gnjp:長野県南佐久郡川上村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川上村 (長野県)> .
+
+gnjp:千葉県佐倉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐倉市> .
+
+gnjp:福岡県糸島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/糸島市> .
+
+gnjp:和歌山県西牟婁郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西牟婁郡> .
+
+gnjp:滋賀県長浜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長浜市> .
+
+gnjp:愛知県蒲郡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蒲郡市> .
+
+gnjp:埼玉県比企郡ときがわ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/ときがわ町> .
+
+gnjp:埼玉県鶴ヶ島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鶴ヶ島市> .
+
+gnjp:神奈川県鎌倉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鎌倉市> .
+
+gnjp:千葉県木更津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木更津市> .
+
+gnjp:北海道礼文郡礼文町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/礼文町> .
+
+gnjp:山形県最上郡戸沢村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/戸沢村> .
+
+gnjp:茨城県筑西市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/筑西市> .
+
+gnjp:北海道斜里郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/斜里郡> .
+
+gnjp:滋賀県守山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/守山市> .
+
+gnjp:青森県東津軽郡外ヶ浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/外ヶ浜町> .
+
+gnjp:長崎県松浦市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松浦市> .
+
+gnjp:福島県南会津郡下郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下郷町> .
+
+gnjp:熊本県熊本市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊本市> .
+
+gnjp:福岡県田川郡赤村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/赤村> .
+
+gnjp:群馬県吾妻郡中之条町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中之条町> .
+
+gnjp:北海道苫前郡苫前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/苫前町> .
+
+gnjp:千葉県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千葉県> .
+
+gnjp:静岡県熱海市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熱海市> .
+
+gnjp:長野県下伊那郡喬木村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/喬木村> .
+
+gnjp:神奈川県大和市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大和市> .
+
+gnjp:青森県五所川原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五所川原市> .
+
+gnjp:茨城県東茨城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東茨城郡> .
+
+gnjp:福岡県京都郡苅田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/苅田町> .
+
+gnjp:千葉県八千代市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八千代市> .
+
+gnjp:和歌山県西牟婁郡すさみ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/すさみ町> .
+
+gnjp:茨城県稲敷郡美浦村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美浦村> .
+
+gnjp:埼玉県川越市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川越市> .
+
+gnjp:鹿児島県熊毛郡中種子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中種子町> .
+
+gnjp:徳島県勝浦郡上勝町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上勝町> .
+
+gnjp:岐阜県郡上市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/郡上市> .
+
+gnjp:青森県上北郡おいらせ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/おいらせ町> .
+
+gnjp:静岡県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/静岡県> .
+
+gnjp:栃木県下都賀郡野木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野木町> .
+
+gnjp:沖縄県宮古郡多良間村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多良間村> .
+
+gnjp:鹿児島県鹿児島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿児島市> .
+
+gnjp:福島県東白川郡塙町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/塙町> .
+
+gnjp:大阪府大阪市住吉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/住吉区> .
+
+gnjp:愛知県北設楽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北設楽郡> .
+
+gnjp:栃木県芳賀郡芳賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芳賀町> .
+
+gnjp:北海道瀬棚郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瀬棚郡> .
+
+gnjp:神奈川県中郡二宮町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/二宮町> .
+
+gnjp:長崎県西彼杵郡時津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/時津町> .
+
+gnjp:熊本県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熊本県> .
+
+gnjp:沖縄県八重山郡与那国町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/与那国町> .
+
+gnjp:熊本県阿蘇郡産山村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/産山村> .
+
+gnjp:北海道岩内郡共和町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/共和町> .
+
+gnjp:鹿児島県奄美市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奄美市> .
+
+gnjp:長野県東筑摩郡麻績村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/麻績村> .
+
+gnjp:石川県羽咋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽咋市> .
+
+gnjp:熊本県人吉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/人吉市> .
+
+gnjp:長野県小諸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小諸市> .
+
+gnjp:埼玉県川口市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川口市> .
+
+gnjp:東京都世田谷区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/世田谷区> .
+
+gnjp:北海道札幌市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/札幌市> .
+
+gnjp:群馬県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/群馬県> .
+
+gnjp:神奈川県川崎市高津区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高津区> .
+
+gnjp:佐賀県東松浦郡玄海町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玄海町> .
+
+gnjp:山口県阿武郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿武郡> .
+
+gnjp:島根県飯石郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯石郡> .
+
+gnjp:山形県東田川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東田川郡> .
+
+gnjp:三重県三重郡菰野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/菰野町> .
+
+gnjp:東京都品川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/品川区> .
+
+gnjp:北海道雨竜郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/雨竜郡> .
+
+gnjp:熊本県玉名市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉名市> .
+
+gnjp:沖縄県島尻郡八重瀬町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八重瀬町> .
+
+gnjp:京都府京田辺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京田辺市> .
+
+gnjp:福井県丹生郡越前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/越前町> .
+
+gnjp:山口県山陽小野田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山陽小野田市> .
+
+gnjp:大分県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大分県> .
+
+gnjp:宮城県仙台市宮城野区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮城野区> .
+
+gnjp:静岡県牧之原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/牧之原市> .
+
+gnjp:佐賀県鳥栖市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳥栖市> .
+
+gnjp:群馬県桐生市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桐生市> .
+
+gnjp:岡山県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岡山県> .
+
+gnjp:沖縄県国頭郡伊江村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊江村> .
+
+gnjp:東京都八王子市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八王子市> .
+
+gnjp:宮崎県えびの市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/えびの市> .
+
+gnjp:佐賀県藤津郡太良町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太良町> .
+
+gnjp:北海道帯広市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/帯広市> .
+
+gnjp:福岡県築上郡吉富町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吉富町> .
+
+gnjp:大阪府大阪市鶴見区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鶴見区 (大阪市)> .
+
+gnjp:宮崎県西諸県郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西諸県郡> .
+
+gnjp:京都府綴喜郡宇治田原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇治田原町> .
+
+gnjp:福岡県八女市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八女市> .
+
+gnjp:神奈川県海老名市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海老名市> .
+
+gnjp:静岡県御殿場市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御殿場市> .
+
+gnjp:群馬県多野郡上野村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上野村> .
+
+gnjp:石川県金沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/金沢市> .
+
+gnjp:千葉県長生郡睦沢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/睦沢町> .
+
+gnjp:北海道常呂郡訓子府町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/訓子府町> .
+
+gnjp:北海道檜山郡上ノ国町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上ノ国町> .
+
+gnjp:三重県南牟婁郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南牟婁郡> .
+
+gnjp:愛知県瀬戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瀬戸市> .
+
+gnjp:岡山県小田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小田郡> .
+
+gnjp:沖縄県名護市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名護市> .
+
+gnjp:熊本県菊池市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/菊池市> .
+
+gnjp:福岡県福岡市城南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/城南区> .
+
+gnjp:愛媛県伊予郡松前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松前町 (愛媛県)> .
+
+gnjp:兵庫県明石市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/明石市> .
+
+gnjp:兵庫県丹波市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/丹波市> .
+
+gnjp:熊本県玉名郡南関町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南関町> .
+
+gnjp:静岡県島田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島田市> .
+
+gnjp:石川県輪島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/輪島市> .
+
+gnjp:新潟県刈羽郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/刈羽郡> .
+
+gnjp:大阪府豊能郡豊能町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊能町> .
+
+gnjp:福岡県北九州市若松区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/若松区> .
+
+gnjp:東京都小金井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小金井市> .
+
+gnjp:群馬県吾妻郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/吾妻郡> .
+
+:       a                   void:Linkset ;
+        dcterms:created     "2015-04-21"^^xsd:date ;
+        dcterms:creator     "Indigo Corporation" ;
+        dcterms:license     <http://creativecommons.org/publicdomain/zero/1.0/> ;
+        dcterms:source      <http://ja.wikipedia.org/wiki/日本の地方公共団体一覧> ;
+        void:linkPredicate  gn:wikipediaArticle ;
+        void:target         [ a           void:Dataset ;
+                              rdfs:label  "Wikipedia Japanese" ;
+                              foaf:page   <https://ja.wikipedia.org//>
+                            ] ;
+        void:target         [ a           void:Dataset ;
+                              rdfs:label  "GeoNames.jp" ;
+                              foaf:page   <http://geonames.jp/>
+                            ] ;
+        void:triples        2332 .
+
+gnjp:徳島県徳島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/徳島市> .
+
+gnjp:神奈川県横浜市保土ケ谷区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/保土ケ谷区> .
+
+gnjp:神奈川県横浜市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (横浜市)> .
+
+gnjp:大分県玖珠郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玖珠郡> .
+
+gnjp:愛媛県北宇和郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北宇和郡> .
+
+gnjp:北海道上川郡美瑛町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美瑛町> .
+
+gnjp:岐阜県可児郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/可児郡> .
+
+gnjp:東京都西東京市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西東京市> .
+
+gnjp:福島県岩瀬郡鏡石町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鏡石町> .
+
+gnjp:福岡県久留米市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久留米市> .
+
+gnjp:愛知県刈谷市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/刈谷市> .
+
+gnjp:和歌山県日高郡日高川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高川町> .
+
+gnjp:北海道島牧郡島牧村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島牧村> .
+
+gnjp:宮崎県児湯郡川南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川南町> .
+
+gnjp:大阪府摂津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/摂津市> .
+
+gnjp:岩手県下閉伊郡岩泉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩泉町> .
+
+gnjp:滋賀県米原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/米原市> .
+
+gnjp:佐賀県三養基郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三養基郡> .
+
+gnjp:高知県長岡郡大豊町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大豊町> .
+
+gnjp:香川県小豆郡土庄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土庄町> .
+
+gnjp:広島県府中市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/府中市 (広島県)> .
+
+gnjp:福井県大飯郡高浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高浜町> .
+
+gnjp:愛知県豊川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊川市> .
+
+gnjp:福島県双葉郡広野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広野町> .
+
+gnjp:熊本県合志市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/合志市> .
+
+gnjp:熊本県玉名郡長洲町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長洲町> .
+
+gnjp:高知県吾川郡仁淀川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/仁淀川町> .
+
+gnjp:茨城県行方市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/行方市> .
+
+gnjp:宮城県刈田郡蔵王町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蔵王町> .
+
+gnjp:石川県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石川県> .
+
+gnjp:大阪府泉北郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉北郡> .
+
+gnjp:沖縄県浦添市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浦添市> .
+
+gnjp:長崎県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長崎県> .
+
+gnjp:北海道野付郡別海町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/別海町> .
+
+gnjp:秋田県仙北郡美郷町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美郷町 (秋田県)> .
+
+gnjp:東京都西多摩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西多摩郡> .
+
+gnjp:福島県相馬郡新地町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新地町> .
+
+gnjp:埼玉県朝霞市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝霞市> .
+
+gnjp:福島県二本松市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/二本松市> .
+
+gnjp:茨城県笠間市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/笠間市> .
+
+gnjp:京都府京都市左京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/左京区> .
+
+gnjp:和歌山県伊都郡かつらぎ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/かつらぎ町> .
+
+gnjp:静岡県裾野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/裾野市> .
+
+gnjp:鳥取県西伯郡日吉津村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日吉津村> .
+
+gnjp:岩手県胆沢郡金ケ崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/金ケ崎町> .
+
+gnjp:長野県北安曇郡松川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松川村> .
+
+gnjp:福岡県宮若市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮若市> .
+
+gnjp:神奈川県横浜市神奈川区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神奈川区> .
+
+gnjp:鹿児島県肝属郡東串良町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東串良町> .
+
+gnjp:佐賀県藤津郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤津郡> .
+
+gnjp:和歌山県和歌山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和歌山市> .
+
+gnjp:栃木県鹿沼市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿沼市> .
+
+gnjp:岩手県九戸郡軽米町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/軽米町> .
+
+gnjp:宮城県黒川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/黒川郡> .
+
+gnjp:埼玉県春日部市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/春日部市> .
+
+gnjp:三重県三重郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三重郡> .
+
+gnjp:長野県東筑摩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東筑摩郡> .
+
+gnjp:北海道枝幸郡中頓別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中頓別町> .
+
+gnjp:滋賀県犬上郡多賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多賀町> .
+
+gnjp:神奈川県三浦市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三浦市> .
+
+gnjp:北海道中川郡美深町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美深町> .
+
+gnjp:滋賀県蒲生郡日野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日野町 (滋賀県)> .
+
+gnjp:福岡県北九州市八幡東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八幡東区> .
+
+gnjp:奈良県吉野郡野迫川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/野迫川村> .
+
+gnjp:福岡県北九州市戸畑区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/戸畑区> .
+
+gnjp:福岡県筑紫郡那珂川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那珂川町 (福岡県)> .
+
+gnjp:兵庫県豊岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊岡市> .
+
+gnjp:宮城県東松島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東松島市> .
+
+gnjp:高知県室戸市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/室戸市> .
+
+gnjp:千葉県富里市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富里市> .
+
+gnjp:香川県木田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木田郡> .
+
+gnjp:北海道虻田郡豊浦町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/豊浦町> .
+
+gnjp:富山県南砺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南砺市> .
+
+gnjp:福島県大沼郡三島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三島町> .
+
+gnjp:北海道久遠郡せたな町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/せたな町> .
+
+gnjp:福岡県北九州市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北九州市> .
+
+gnjp:島根県浜田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浜田市> .
+
+gnjp:北海道樺戸郡新十津川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新十津川町> .
+
+gnjp:福井県大野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大野市> .
+
+gnjp:兵庫県伊丹市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊丹市> .
+
+gnjp:大阪府  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大阪府> .
+
+gnjp:奈良県北葛城郡王寺町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/王寺町> .
+
+gnjp:群馬県佐波郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐波郡> .
+
+gnjp:佐賀県杵島郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/杵島郡> .
+
+gnjp:和歌山県東牟婁郡那智勝浦町  gn:wikipediaArticle
+                <http://ja.wikipedia.org/wiki/那智勝浦町> .
+
+gnjp:福岡県小郡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小郡市> .
+
+gnjp:京都府京都市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京都市> .
+
+gnjp:岐阜県関市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/関市> .
+
+gnjp:大阪府藤井寺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤井寺市> .
+
+gnjp:山梨県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山梨県> .
+
+gnjp:北海道苫前郡羽幌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽幌町> .
+
+gnjp:鹿児島県出水市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/出水市> .
+
+gnjp:岐阜県本巣市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本巣市> .
+
+gnjp:北海道名寄市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名寄市> .
+
+gnjp:高知県吾川郡いの町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/いの町> .
+
+gnjp:鹿児島県鹿屋市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鹿屋市> .
+
+gnjp:長野県埴科郡坂城町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂城町> .
+
+gnjp:北海道松前郡松前町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松前町 (北海道)> .
+
+gnjp:神奈川県足柄下郡箱根町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/箱根町> .
+
+gnjp:福島県西白河郡西郷村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西郷村> .
+
+gnjp:香川県さぬき市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/さぬき市> .
+
+gnjp:鹿児島県曽於郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/曽於郡> .
+
+gnjp:静岡県浜松市天竜区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天竜区> .
+
+gnjp:大阪府交野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/交野市> .
+
+gnjp:北海道河東郡上士幌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上士幌町> .
+
+gnjp:福島県南会津郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南会津郡> .
+
+gnjp:高知県長岡郡本山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/本山町> .
+
+gnjp:愛知県春日井市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/春日井市> .
+
+gnjp:大阪府堺市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (堺市)> .
+
+gnjp:石川県河北郡津幡町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津幡町> .
+
+gnjp:東京都北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (東京都)> .
+
+gnjp:石川県鹿島郡中能登町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中能登町> .
+
+gnjp:鹿児島県曽於郡大崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大崎町> .
+
+gnjp:北海道根室市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/根室市> .
+
+gnjp:富山県氷見市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/氷見市> .
+
+gnjp:鹿児島県薩摩川内市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/薩摩川内市> .
+
+gnjp:岡山県勝田郡奈義町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奈義町> .
+
+gnjp:兵庫県神戸市北区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北区 (神戸市)> .
+
+gnjp:千葉県山武郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山武郡> .
+
+gnjp:岩手県九戸郡洋野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/洋野町> .
+
+gnjp:山梨県南都留郡富士河口湖町  gn:wikipediaArticle
+                <http://ja.wikipedia.org/wiki/富士河口湖町> .
+
+gnjp:北海道利尻郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利尻郡> .
+
+gnjp:神奈川県横浜市戸塚区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/戸塚区> .
+
+gnjp:北海道深川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/深川市> .
+
+gnjp:大阪府松原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松原市> .
+
+gnjp:神奈川県厚木市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/厚木市> .
+
+gnjp:埼玉県桶川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桶川市> .
+
+gnjp:北海道常呂郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/常呂郡> .
+
+gnjp:三重県鳥羽市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳥羽市> .
+
+gnjp:岩手県西磐井郡平泉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平泉町> .
+
+gnjp:青森県上北郡六ヶ所村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/六ヶ所村> .
+
+gnjp:和歌山県田辺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田辺市> .
+
+gnjp:北海道上川郡下川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下川町> .
+
+gnjp:東京都武蔵野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/武蔵野市> .
+
+gnjp:北海道函館市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/函館市> .
+
+gnjp:宮城県柴田郡川崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川崎町 (宮城県)> .
+
+gnjp:高知県安芸郡芸西村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芸西村> .
+
+gnjp:三重県北牟婁郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北牟婁郡> .
+
+gnjp:静岡県周智郡森町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/森町 (静岡県)> .
+
+gnjp:熊本県阿蘇郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿蘇郡> .
+
+gnjp:島根県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島根県> .
+
+gnjp:奈良県吉野郡大淀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大淀町> .
+
+gnjp:兵庫県相生市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/相生市> .
+
+gnjp:和歌山県海草郡紀美野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紀美野町> .
+
+gnjp:宮城県遠田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遠田郡> .
+
+gnjp:山梨県甲斐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/甲斐市> .
+
+gnjp:北海道阿寒郡鶴居村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鶴居村> .
+
+gnjp:山梨県南巨摩郡南部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南部町 (山梨県)> .
+
+gnjp:新潟県三島郡出雲崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/出雲崎町> .
+
+gnjp:青森県南津軽郡藤崎町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤崎町> .
+
+gnjp:和歌山県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和歌山県> .
+
+gnjp:神奈川県川崎市多摩区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多摩区> .
+
+gnjp:長崎県西彼杵郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西彼杵郡> .
+
+gnjp:熊本県阿蘇郡南阿蘇村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南阿蘇村> .
+
+gnjp:東京都東久留米市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東久留米市> .
+
+gnjp:兵庫県神戸市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (神戸市)> .
+
+gnjp:高知県高岡郡津野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津野町> .
+
+gnjp:福島県大沼郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大沼郡> .
+
+gnjp:長野県木曽郡王滝村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/王滝村> .
+
+gnjp:徳島県阿波市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/阿波市> .
+
+gnjp:静岡県駿東郡小山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小山町> .
+
+gnjp:新潟県魚沼市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/魚沼市> .
+
+gnjp:群馬県邑楽郡大泉町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大泉町> .
+
+gnjp:沖縄県国頭郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国頭郡> .
+
+gnjp:長崎県東彼杵郡波佐見町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/波佐見町> .
+
+gnjp:京都府八幡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八幡市> .
+
+gnjp:福岡県中間市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中間市> .
+
+gnjp:和歌山県有田郡有田川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/有田川町> .
+
+gnjp:北海道富良野市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富良野市> .
+
+gnjp:北海道虻田郡京極町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京極町> .
+
+gnjp:新潟県南魚沼郡湯沢町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯沢町> .
+
+gnjp:新潟県糸魚川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/糸魚川市> .
+
+gnjp:長野県南佐久郡北相木村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北相木村> .
+
+gnjp:神奈川県横浜市西区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西区 (横浜市)> .
+
+gnjp:新潟県南魚沼郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南魚沼郡> .
+
+gnjp:千葉県長生郡長生村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長生村> .
+
+gnjp:山形県東村山郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東村山郡> .
+
+gnjp:大分県竹田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/竹田市> .
+
+gnjp:千葉県夷隅郡大多喜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大多喜町> .
+
+gnjp:徳島県板野郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/板野郡> .
+
+gnjp:岐阜県揖斐郡大野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大野町> .
+
+gnjp:福井県越前市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/越前市> .
+
+gnjp:新潟県五泉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五泉市> .
+
+gnjp:東京都武蔵村山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/武蔵村山市> .
+
+gnjp:栃木県日光市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日光市> .
+
+gnjp:東京都墨田区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/墨田区> .
+
+gnjp:栃木県芳賀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芳賀郡> .
+
+gnjp:大阪府箕面市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/箕面市> .
+
+gnjp:島根県隠岐郡海士町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海士町> .
+
+gnjp:福島県石川郡石川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石川町> .
+
+gnjp:大阪府大阪市浪速区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/浪速区> .
+
+gnjp:鹿児島県肝属郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/肝属郡> .
+
+gnjp:宮城県遠田郡美里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美里町 (宮城県)> .
+
+gnjp:千葉県香取郡東庄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東庄町> .
+
+gnjp:和歌山県有田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/有田郡> .
+
+gnjp:愛媛県四国中央市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/四国中央市> .
+
+gnjp:奈良県北葛城郡広陵町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広陵町> .
+
+gnjp:北海道稚内市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稚内市> .
+
+gnjp:徳島県板野郡松茂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松茂町> .
+
+gnjp:和歌山県有田郡広川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/広川町 (和歌山県)> .
+
+gnjp:京都府与謝郡伊根町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊根町> .
+
+gnjp:愛知県岡崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岡崎市> .
+
+gnjp:青森県三戸郡南部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南部町 (青森県)> .
+
+gnjp:千葉県南房総市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南房総市> .
+
+gnjp:山形県最上郡真室川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/真室川町> .
+
+gnjp:北海道川上郡弟子屈町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/弟子屈町> .
+
+gnjp:高知県安芸郡安田町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安田町> .
+
+gnjp:福島県河沼郡会津坂下町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/会津坂下町> .
+
+gnjp:長崎県東彼杵郡東彼杵町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東彼杵町> .
+
+gnjp:徳島県板野郡上板町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上板町> .
+
+gnjp:高知県幡多郡黒潮町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/黒潮町> .
+
+gnjp:福岡県飯塚市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯塚市> .
+
+gnjp:東京都台東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/台東区> .
+
+gnjp:福岡県朝倉市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝倉市> .
+
+gnjp:佐賀県佐賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐賀市> .
+
+gnjp:福島県河沼郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河沼郡> .
+
+gnjp:熊本県玉名郡和水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和水町> .
+
+gnjp:北海道足寄郡陸別町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/陸別町> .
+
+gnjp:高知県土佐郡土佐町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土佐町> .
+
+gnjp:岡山県岡山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岡山市> .
+
+gnjp:京都府京都市西京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西京区> .
+
+gnjp:愛知県名古屋市熱田区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/熱田区> .
+
+gnjp:福岡県福岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/福岡市> .
+
+gnjp:愛媛県西条市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西条市> .
+
+gnjp:埼玉県上尾市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上尾市> .
+
+gnjp:北海道斜里郡斜里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/斜里町> .
+
+gnjp:北海道上川郡新得町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新得町> .
+
+gnjp:和歌山県新宮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新宮市> .
+
+gnjp:茨城県結城郡八千代町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八千代町> .
+
+gnjp:群馬県館林市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/館林市> .
+
+gnjp:宮城県加美郡加美町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/加美町> .
+
+gnjp:大阪府八尾市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八尾市> .
+
+gnjp:三重県志摩市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/志摩市> .
+
+gnjp:愛知県稲沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/稲沢市> .
+
+gnjp:富山県滑川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/滑川市> .
+
+gnjp:福島県大沼郡会津美里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/会津美里町> .
+
+gnjp:熊本県阿蘇郡南小国町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南小国町> .
+
+gnjp:高知県土佐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土佐市> .
+
+gnjp:兵庫県佐用郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐用郡> .
+
+gnjp:鹿児島県薩摩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/薩摩郡> .
+
+gnjp:愛知県名古屋市名東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名東区> .
+
+gnjp:宮崎県児湯郡西米良村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西米良村> .
+
+gnjp:宮崎県日向市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日向市> .
+
+gnjp:東京都西多摩郡日の出町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日の出町> .
+
+gnjp:福岡県田川郡大任町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大任町> .
+
+gnjp:奈良県奈良市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奈良市> .
+
+gnjp:福岡県遠賀郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/遠賀郡> .
+
+gnjp:北海道天塩郡天塩町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天塩町> .
+
+gnjp:奈良県吉野郡東吉野村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東吉野村> .
+
+gnjp:長野県下伊那郡松川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松川町> .
+
+gnjp:熊本県八代郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八代郡> .
+
+gnjp:熊本県宇城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇城市> .
+
+gnjp:徳島県海部郡美波町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美波町> .
+
+gnjp:熊本県球磨郡球磨村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/球磨村> .
+
+gnjp:長野県下伊那郡売木村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/売木村> .
+
+gnjp:新潟県上越市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上越市> .
+
+gnjp:鳥取県日野郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日野郡> .
+
+gnjp:北海道網走郡美幌町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美幌町> .
+
+gnjp:宮城県宮城郡松島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松島町> .
+
+gnjp:北海道札幌市厚別区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/厚別区> .
+
+gnjp:福岡県京都郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/京都郡> .
+
+gnjp:奈良県吉野郡黒滝村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/黒滝村> .
+
+gnjp:愛知県弥富市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/弥富市> .
+
+gnjp:大分県中津市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中津市> .
+
+gnjp:山梨県富士吉田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富士吉田市> .
+
+gnjp:山形県東村山郡中山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中山町> .
+
+gnjp:北海道上川郡和寒町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/和寒町> .
+
+gnjp:埼玉県大里郡寄居町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/寄居町> .
+
+gnjp:徳島県名東郡佐那河内村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐那河内村> .
+
+gnjp:栃木県大田原市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大田原市> .
+
+gnjp:千葉県夷隅郡御宿町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御宿町> .
+
+gnjp:長崎県南松浦郡新上五島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新上五島町> .
+
+gnjp:岐阜県大野郡白川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白川村> .
+
+gnjp:茨城県土浦市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土浦市> .
+
+gnjp:山梨県南都留郡鳴沢村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/鳴沢村> .
+
+gnjp:兵庫県加古郡播磨町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/播磨町> .
+
+gnjp:広島県広島市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (広島市)> .
+
+gnjp:福島県石川郡玉川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/玉川村> .
+
+gnjp:北海道様似郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/様似郡> .
+
+gnjp:岩手県八幡平市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八幡平市> .
+
+gnjp:千葉県館山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/館山市> .
+
+gnjp:鹿児島県肝属郡南大隅町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南大隅町> .
+
+gnjp:新潟県西蒲原郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西蒲原郡> .
+
+gnjp:福岡県嘉麻市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/嘉麻市> .
+
+gnjp:東京都東村山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東村山市> .
+
+gnjp:愛知県知多郡南知多町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南知多町> .
+
+gnjp:秋田県湯沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湯沢市> .
+
+gnjp:福島県いわき市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/いわき市> .
+
+gnjp:宮崎県北諸県郡三股町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三股町> .
+
+gnjp:和歌山県日高郡由良町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/由良町> .
+
+gnjp:山梨県韮崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/韮崎市> .
+
+gnjp:鳥取県東伯郡北栄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北栄町> .
+
+gnjp:北海道札幌市手稲区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/手稲区> .
+
+gnjp:和歌山県海南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海南市> .
+
+gnjp:岐阜県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岐阜県> .
+
+gnjp:奈良県山辺郡山添村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山添村> .
+
+gnjp:兵庫県宝塚市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宝塚市> .
+
+gnjp:静岡県賀茂郡西伊豆町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西伊豆町> .
+
+gnjp:愛知県清須市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清須市> .
+
+gnjp:千葉県流山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/流山市> .
+
+gnjp:北海道白老郡白老町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白老町> .
+
+gnjp:北海道積丹郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/積丹郡> .
+
+gnjp:愛知県名古屋市千種区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/千種区> .
+
+gnjp:青森県十和田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/十和田市> .
+
+gnjp:大阪府泉北郡忠岡町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/忠岡町> .
+
+gnjp:愛媛県西宇和郡伊方町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊方町> .
+
+gnjp:東京都調布市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/調布市> .
+
+gnjp:徳島県海部郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海部郡 (徳島県)> .
+
+gnjp:鳥取県八頭郡智頭町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/智頭町> .
+
+gnjp:山形県尾花沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/尾花沢市> .
+
+gnjp:神奈川県横浜市瀬谷区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瀬谷区> .
+
+gnjp:福島県会津若松市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/会津若松市> .
+
+gnjp:北海道白老郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白老郡> .
+
+gnjp:三重県度会郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/度会郡> .
+
+gnjp:愛知県名古屋市昭和区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/昭和区> .
+
+gnjp:青森県平川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平川市> .
+
+gnjp:長野県大町市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大町市> .
+
+gnjp:長野県下伊那郡天龍村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天龍村> .
+
+gnjp:静岡県富士市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/富士市> .
+
+gnjp:長野県東筑摩郡朝日村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/朝日村> .
+
+gnjp:北海道礼文郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/礼文郡> .
+
+gnjp:高知県四万十市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/四万十市> .
+
+gnjp:徳島県那賀郡那賀町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那賀町> .
+
+gnjp:奈良県吉野郡天川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/天川村> .
+
+gnjp:福島県石川郡古殿町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古殿町> .
+
+gnjp:秋田県由利本荘市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/由利本荘市> .
+
+gnjp:北海道利尻郡利尻町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/利尻町> .
+
+gnjp:千葉県長生郡長南町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/長南町> .
+
+gnjp:広島県安芸郡坂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/坂町> .
+
+gnjp:徳島県板野郡藍住町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藍住町> .
+
+gnjp:山形県西置賜郡白鷹町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白鷹町> .
+
+gnjp:和歌山県御坊市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御坊市> .
+
+gnjp:鹿児島県大島郡大和村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大和村> .
+
+gnjp:鳥取県西伯郡南部町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南部町 (鳥取県)> .
+
+gnjp:宮城県牡鹿郡女川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/女川町> .
+
+gnjp:福岡県糟屋郡久山町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久山町> .
+
+gnjp:北海道河東郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河東郡> .
+
+gnjp:北海道石狩郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石狩郡> .
+
+gnjp:北海道檜山郡江差町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/江差町> .
+
+gnjp:沖縄県石垣市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石垣市> .
+
+gnjp:三重県北牟婁郡紀北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紀北町> .
+
+gnjp:長野県南佐久郡佐久穂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/佐久穂町> .
+
+gnjp:栃木県河内郡上三川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上三川町> .
+
+gnjp:神奈川県足柄上郡山北町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山北町> .
+
+gnjp:神奈川県相模原市中央区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中央区 (相模原市)> .
+
+gnjp:東京都御蔵島村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/御蔵島村> .
+
+gnjp:京都府久世郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/久世郡> .
+
+gnjp:長野県木曽郡木祖村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/木祖村> .
+
+gnjp:鳥取県岩美郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩美郡> .
+
+gnjp:茨城県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/茨城県> .
+
+gnjp:北海道三笠市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三笠市> .
+
+gnjp:宮崎県西諸県郡高原町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高原町> .
+
+gnjp:青森県三戸郡階上町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/階上町> .
+
+gnjp:岩手県盛岡市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/盛岡市> .
+
+gnjp:長崎県壱岐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/壱岐市> .
+
+gnjp:京都府京都市中京区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中京区> .
+
+gnjp:神奈川県愛甲郡愛川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛川町> .
+
+gnjp:宮崎県西臼杵郡高千穂町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高千穂町> .
+
+gnjp:兵庫県三木市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三木市> .
+
+gnjp:東京都府中市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/府中市 (東京都)> .
+
+gnjp:長崎県五島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五島市> .
+
+gnjp:岐阜県土岐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/土岐市> .
+
+gnjp:沖縄県島尻郡渡嘉敷村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/渡嘉敷村> .
+
+gnjp:三重県度会郡度会町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/度会町> .
+
+gnjp:富山県中新川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中新川郡> .
+
+gnjp:福島県安達郡大玉村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大玉村> .
+
+gnjp:宮城県仙台市若林区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/若林区> .
+
+gnjp:岐阜県羽島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽島市> .
+
+gnjp:北海道虻田郡ニセコ町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/ニセコ町> .
+
+gnjp:宮崎県西臼杵郡日之影町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日之影町> .
+
+gnjp:北海道登別市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/登別市> .
+
+gnjp:北海道紋別郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紋別郡> .
+
+gnjp:山形県最上郡最上町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/最上町> .
+
+gnjp:茨城県龍ケ崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/龍ケ崎市> .
+
+gnjp:埼玉県大里郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大里郡> .
+
+gnjp:北海道夕張郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/夕張郡> .
+
+gnjp:佐賀県神埼郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/神埼郡> .
+
+gnjp:兵庫県神戸市須磨区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/須磨区> .
+
+gnjp:岐阜県瑞浪市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/瑞浪市> .
+
+gnjp:三重県南牟婁郡紀宝町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紀宝町> .
+
+gnjp:愛知県海部郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/海部郡 (愛知県)> .
+
+gnjp:茨城県古河市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/古河市> .
+
+gnjp:千葉県香取市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/香取市> .
+
+gnjp:奈良県生駒郡安堵町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安堵町> .
+
+gnjp:長野県北安曇郡小谷村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小谷村> .
+
+gnjp:沖縄県那覇市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/那覇市> .
+
+gnjp:広島県安芸郡府中町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/府中町> .
+
+gnjp:宮城県宮城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮城郡> .
+
+gnjp:埼玉県秩父郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/秩父郡> .
+
+gnjp:長野県東筑摩郡山形村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/山形村> .
+
+gnjp:三重県名張市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/名張市> .
+
+gnjp:青森県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青森県> .
+
+gnjp:青森県下北郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下北郡> .
+
+gnjp:岩手県陸前高田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/陸前高田市> .
+
+gnjp:兵庫県南あわじ市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南あわじ市> .
+
+gnjp:福岡県遠賀郡芦屋町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/芦屋町> .
+
+gnjp:山形県西村山郡大江町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大江町> .
+
+gnjp:広島県安芸高田市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安芸高田市> .
+
+gnjp:山形県米沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/米沢市> .
+
+gnjp:秋田県南秋田郡八郎潟町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八郎潟町> .
+
+gnjp:長野県上伊那郡飯島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/飯島町> .
+
+gnjp:北海道小樽市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小樽市> .
+
+gnjp:宮城県多賀城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多賀城市> .
+
+gnjp:福島県伊達郡桑折町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桑折町> .
+
+gnjp:広島県広島市安佐南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安佐南区> .
+
+gnjp:愛知県愛西市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛西市> .
+
+gnjp:静岡県藤枝市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/藤枝市> .
+
+gnjp:埼玉県北足立郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北足立郡> .
+
+gnjp:神奈川県足柄下郡真鶴町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/真鶴町> .
+
+gnjp:北海道島牧郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/島牧郡> .
+
+gnjp:長野県松本市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松本市> .
+
+gnjp:静岡県静岡市清水区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清水区> .
+
+gnjp:岡山県真庭市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/真庭市> .
+
+gnjp:岩手県宮古市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮古市> .
+
+gnjp:神奈川県横浜市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/横浜市> .
+
+gnjp:北海道日高郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/日高郡 (北海道)> .
+
+gnjp:徳島県美馬郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/美馬郡> .
+
+gnjp:東京都大島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大島町> .
+
+gnjp:埼玉県八潮市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/八潮市> .
+
+gnjp:熊本県葦北郡津奈木町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/津奈木町> .
+
+gnjp:愛媛県北宇和郡松野町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/松野町> .
+
+gnjp:福島県石川郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/石川郡 (福島県)> .
+
+gnjp:福岡県大野城市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大野城市> .
+
+gnjp:愛知県  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/愛知県> .
+
+gnjp:和歌山県紀の川市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/紀の川市> .
+
+gnjp:青森県上北郡六戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/六戸町> .
+
+gnjp:千葉県いすみ市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/いすみ市> .
+
+gnjp:北海道岩内郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩内郡> .
+
+gnjp:岩手県岩手郡岩手町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩手町> .
+
+gnjp:埼玉県入間郡三芳町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/三芳町> .
+
+gnjp:滋賀県犬上郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/犬上郡> .
+
+gnjp:群馬県吾妻郡草津町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/草津町> .
+
+gnjp:岐阜県加茂郡白川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白川町> .
+
+gnjp:北海道留萌市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/留萌市> .
+
+gnjp:島根県邑智郡川本町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/川本町> .
+
+gnjp:愛知県みよし市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/みよし市> .
+
+gnjp:東京都西多摩郡奥多摩町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/奥多摩町> .
+
+gnjp:千葉県大網白里市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大網白里市> .
+
+gnjp:佐賀県多久市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/多久市> .
+
+gnjp:北海道枝幸郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/枝幸郡> .
+
+gnjp:神奈川県中郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/中郡> .
+
+gnjp:愛媛県西宇和郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西宇和郡> .
+
+gnjp:茨城県猿島郡境町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/境町> .
+
+gnjp:北海道積丹郡積丹町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/積丹町> .
+
+gnjp:沖縄県宮古郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宮古郡> .
+
+gnjp:栃木県河内郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/河内郡> .
+
+gnjp:大分県由布市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/由布市> .
+
+gnjp:京都府京都市南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/南区 (京都市)> .
+
+gnjp:大分県宇佐市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/宇佐市> .
+
+gnjp:岡山県英田郡西粟倉村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/西粟倉村> .
+
+gnjp:新潟県南蒲原郡田上町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/田上町> .
+
+gnjp:福井県大飯郡おおい町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/おおい町> .
+
+gnjp:富山県小矢部市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小矢部市> .
+
+gnjp:福岡県福岡市早良区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/早良区> .
+
+gnjp:栃木県小山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小山市> .
+
+gnjp:鹿児島県大島郡徳之島町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/徳之島町> .
+
+gnjp:青森県東津軽郡蓬田村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/蓬田村> .
+
+gnjp:北海道上磯郡知内町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/知内町> .
+
+gnjp:神奈川県足柄上郡大井町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大井町> .
+
+gnjp:北海道勇払郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勇払郡> .
+
+gnjp:宮城県仙台市泉区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/泉区 (仙台市)> .
+
+gnjp:茨城県結城郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/結城郡> .
+
+gnjp:長野県小県郡青木村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/青木村> .
+
+gnjp:宮城県柴田郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/柴田郡> .
+
+gnjp:北海道岩見沢市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/岩見沢市> .
+
+gnjp:北海道斜里郡清里町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/清里町> .
+
+gnjp:東京都杉並区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/杉並区> .
+
+gnjp:福岡県福岡市東区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東区 (福岡市)> .
+
+gnjp:長野県下伊那郡下條村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/下條村> .
+
+gnjp:三重県桑名市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/桑名市> .
+
+gnjp:神奈川県横須賀市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/横須賀市> .
+
+gnjp:新潟県刈羽郡刈羽村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/刈羽村> .
+
+gnjp:神奈川県横浜市港南区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/港南区> .
+
+gnjp:青森県三戸郡五戸町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/五戸町> .
+
+gnjp:東京都羽村市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/羽村市> .
+
+gnjp:京都府与謝郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/与謝郡> .
+
+gnjp:新潟県岩船郡関川村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/関川村> .
+
+gnjp:愛知県北設楽郡東栄町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/東栄町> .
+
+gnjp:北海道沙流郡平取町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/平取町> .
+
+gnjp:宮城県仙台市太白区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/太白区> .
+
+gnjp:北海道広尾郡大樹町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/大樹町> .
+
+gnjp:北海道斜里郡小清水町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/小清水町> .
+
+gnjp:岡山県備前市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/備前市> .
+
+gnjp:滋賀県湖南市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/湖南市> .
+
+gnjp:東京都国分寺市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/国分寺市> .
+
+gnjp:和歌山県西牟婁郡白浜町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/白浜町> .
+
+gnjp:福島県伊達市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊達市 (福島県)> .
+
+gnjp:栃木県芳賀郡益子町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/益子町> .
+
+gnjp:福井県勝山市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/勝山市> .
+
+gnjp:青森県三戸郡新郷村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/新郷村> .
+
+gnjp:福岡県直方市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/直方市> .
+
+gnjp:秋田県南秋田郡井川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/井川町> .
+
+gnjp:北海道上磯郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/上磯郡> .
+
+gnjp:沖縄県島尻郡伊是名村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/伊是名村> .
+
+gnjp:埼玉県比企郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/比企郡> .
+
+gnjp:宮城県牡鹿郡  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/牡鹿郡> .
+
+gnjp:沖縄県島尻郡北大東村  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/北大東村> .
+
+gnjp:大分県杵築市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/杵築市> .
+
+gnjp:広島県広島市安芸区  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/安芸区> .
+
+gnjp:滋賀県高島市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高島市> .
+
+gnjp:群馬県高崎市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/高崎市> .
+
+gnjp:北海道苫小牧市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/苫小牧市> .
+
+gnjp:大阪府貝塚市  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/貝塚市> .
+
+gnjp:兵庫県神崎郡市川町  gn:wikipediaArticle  <http://ja.wikipedia.org/wiki/市川町> .
