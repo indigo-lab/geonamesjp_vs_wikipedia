@@ -1,5 +1,5 @@
 # geonamesjp_vs_wikipedia
-GeoNames.jp と Wikipedia (日本語版) のリンクセット
+[GeoNames.jp](http://geonames.jp/) と[Wikipedia (日本語版)](http://ja.wikipedia.org/) のリンクセット
 
 ## What's this?
 [GeoNames Ontology](http://www.geonames.org/ontology/documentation.html) で定義された
